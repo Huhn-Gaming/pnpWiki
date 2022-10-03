@@ -1,3 +1,5 @@
 # Huhn Pen & Paper Wiki
 
-Helden: [Helden](helden/index.md).
+
+[Geschichten](helden/index.md).
+[Helden](geschichten/index.md).
