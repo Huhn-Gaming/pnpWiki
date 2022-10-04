@@ -23,15 +23,11 @@ Die drei freuten sich auf ein Wochenende voller Skifahren und leckerem Essen. Do
 ## Hauptteil
 
 Die Helden befinden sich im Wagon der Seilbahn zusammen mit dem Grafen von Tölz und schweben zu den Klängen der Bayernhymne langsam gen Himmel.
-Direkt hier ergibt sich das erste Ereignis, ein Schneesturm zieht auf, eine Rolle der Seilbahnführung hat sich gelockert und die Notbremse wurde automatisch eingelegt. Mit seinem mechanischem Fähigkeiten und Wi
-Lautstärke
-
-
-
-
-ssen über die Bahn schafft es Alexander diese schnell zu reparieren.
+Direkt hier ergibt sich das erste Ereignis, ein Schneesturm zieht auf, eine Rolle der Seilbahnführung hat sich gelockert und die Notbremse wurde automatisch eingelegt. Mit seinem mechanischem Fähigkeiten und Wissen über die Bahn schafft es Alexander diese schnell zu reparieren.
 
 An der Berstation angekommen wird die Gruppe und ihr Gepäck vom steifen Diener [Erik Siebert](../../personen/Bedienstete/Erik_Siebert/index.md) und vom alten aber freudigen Hund des Grafen [Stüpp](../../tiere/St%C3%BCpp/index.md) in Empfang genommen. Von dort geht es in die ca. 1km entfernte [Bayernhütte am Brauneck](./../../orte/Bayern/Bayernh%C3%BCtte%20am%20Brauneck/index.md), dem Winteranwesen und Jagdhütte des Grafen. Hier wird gespeßt, entspannt und sich auf die Skifahrt vorbereitet.
+
+Auf zur Abfahrt, welche sich in kurzer Entfernung zur Seilbahn befindet. Die leichte dieser Fahrten ist selbst für unsere Helden zu viel, was sich durch viele Stürze zeigt. Alexander fällt so schwer, dass er sich an der scharfen Kante des Skis den Oberschenkel aufschneidet. Das Nähzeug von Marina und Friedrichs erste Hilfe schafft schnell Abhilfe. Doch diese erste Abfahrt ist beendet und die Gruppe findet sich wieder in der Hütte ein.
 
 ---
 
