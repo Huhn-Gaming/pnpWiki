@@ -7,19 +7,31 @@
 |**Teilnehmer:**                |                                                 **[Marina Adamantidi](../../helden/Marina_Adamantidi/index.md) \|             [Alexander Doppler](../../helden/Alexander_Doppler/index.md) \|               [Friedrich Pfeiffer](../../helden/Friedrich_Pfeiffer/index.md)**|            
 | **Veranstaltungsort:**        |            **Casa Dauner**    |
 | **Spielzeit:**                | **Freitag 11.12 - Sonntag 13.12.1880**            |
+| **Schauplätze:**                | **[Bayernhütte am Brauneck](./../../orte/Bayern/Bayernh%C3%BCtte%20am%20Brauneck/index.md) \| [Bad Tölz](../../orte/Bayern/Bad%20T%C3%B6lz/index.md)**            |
 
 
 
 
 ## Prolog
 
-Die Helden werden aus unterschiedlichen Gründen zur Einweihung und ersten Fahrt der ersten bayerischen Seilbahn in [Lenggries](../../orte/Lenggries/index.md) eingeladen. Der Veranstalter und Erbauer der Seilbahn ist [Graf Michael Großberg von Tölz](../../personen/Adel/Graf_Michael_Grossberg_von_Toelz/index.md). Marina investierte die größte Summe, Alexander war maßgeblich am Bau und der Konstruktion beteiligt und Friedrich P. als staatlicher Ehrengast.
+Die Helden werden aus unterschiedlichen Gründen zur Einweihung und ersten Fahrt der ersten bayerischen Seilbahn in [Lenggries](../../orte/Lenggries/index.md) eingeladen. Der Veranstalter und Erbauer der Seilbahn ist [Graf Michael Großberg von Tölz](../../personen/Adel/Graf_Michael_Grossberg_von_Toelz/index.md). Marina und ihr Hund [Johhny]() investierte die größte Summe, Alexander war maßgeblich am Bau und der Konstruktion beteiligt und Friedrich P. als staatlicher Ehrengast.
 
 Die drei freuten sich auf ein Wochenende voller Skifahren und leckerem Essen. Doch Schneestürme und ein bluiger Unfall führten zu einer Nacht voller Horror und Gewalt.
 
 ---
 
 ## Hauptteil
+
+Die Helden befinden sich im Wagon der Seilbahn zusammen mit dem Grafen von Tölz und schweben zu den Klängen der Bayernhymne langsam gen Himmel.
+Direkt hier ergibt sich das erste Ereignis, ein Schneesturm zieht auf, eine Rolle der Seilbahnführung hat sich gelockert und die Notbremse wurde automatisch eingelegt. Mit seinem mechanischem Fähigkeiten und Wi
+Lautstärke
+
+
+
+
+ssen über die Bahn schafft es Alexander diese schnell zu reparieren.
+
+An der Berstation angekommen wird die Gruppe und ihr Gepäck vom steifen Diener [Erik Siebert](../../personen/Bedienstete/Erik_Siebert/index.md) und vom alten aber freudigen Hund des Grafen [Stüpp](../../tiere/St%C3%BCpp/index.md) in Empfang genommen. Von dort geht es in die ca. 1km entfernte [Bayernhütte am Brauneck](./../../orte/Bayern/Bayernh%C3%BCtte%20am%20Brauneck/index.md), dem Winteranwesen und Jagdhütte des Grafen. Hier wird gespeßt, entspannt und sich auf die Skifahrt vorbereitet.
 
 ---
 
