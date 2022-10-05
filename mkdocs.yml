@@ -1,5 +1,6 @@
 site_name: Huhn Pen & Paper
 theme:
+  font: false
   name: material
   language: de
   palette:

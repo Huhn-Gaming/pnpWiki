@@ -72,3 +72,8 @@
     font-weight: 700;
     font-style: italic;
 }
+
+:root {
+  --md-text-font: "Roboto";
+  --md-code-font: "RobotoMono";  
+}
