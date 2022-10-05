@@ -1,5 +1,6 @@
 site_name: Huhn Pen & Paper
 theme:
+  font: false
   name: material
   language: de
   palette:
@@ -20,6 +21,9 @@ theme:
     - navigation.sections
     - toc.follow
     - navigation.top
+    - navigation.indexes
   plugins:
     - search:
         lang: de
+extra_css:
+  - stylesheets/extra.css
