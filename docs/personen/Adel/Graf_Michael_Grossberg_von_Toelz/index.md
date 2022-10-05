@@ -6,7 +6,7 @@
 | ---| ---|
 | Geburtstag| 30.03.1819 |
 | Geburtsort | [Bad Tölz](../../../orte/Bayern/Bad%20T%C3%B6lz/index.md) |
-| Geburtstag| 30.03.1819 |
+| Todestag| 13.12.1880 |
 | Todesort| [Bayernhütte am Brauneck](../../../orte/Bayern/Bayernh%C3%BCtte%20am%20Brauneck/index.md) |
 | Statur | athletisch reif |
 | Familie |  |
@@ -24,13 +24,15 @@ GRaf Michael Gorssberg von Tölz wurde am 30.03.1819 in Bad Tölz als zweiter So
 
 Er selbst widmete sich neuen Technologien und dieser Entwicklung. Unterstützte dabei Erfinder und Tüftler mit Geld und Einfluss. 1880 sammelte er Geld für die erste motorisierte Seilbahn des Staates Bayern.
 
-Wie es sich kurz vor seinem Tod herausstellte war Michael geheimerweise ein [Werwolf](../../../monster/werwolf/index.md). Wahrscheinlich wussten nur wenige Menschen von seiner Verwandlung, darunter sein Diener Erik und womöglich dessen Tochter [Anna Siebert](../../Bedienstete/Anna%20Siebert/index.md)
+Wie es sich kurz vor seinem Tod herausstellte war Michael geheimerweise ein [Werwolf](../../../monster/werwolf/index.md). Wahrscheinlich wussten nur wenige Menschen von seiner Verwandlung, darunter sein Diener Erik und womöglich dessen Tochter [Anna Siebert](../../Bedienstete/Anna%20Siebert/index.md).
+
+Am 11.12.1880 wurde sein Passionsprojekt, die Seilbahn zu [Lenggries](../../../orte/Bayern/Lenggries/index.md) eingeweiht. Dazu lud er  
 
 ---
 
 ## Inventar und Begleiter
 
-
+- Hund Bernadiener [Stüpp](../../../tiere/St%C3%BCpp/index.md)
 
 ---
 
