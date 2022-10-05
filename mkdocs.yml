@@ -20,6 +20,9 @@ theme:
     - navigation.sections
     - toc.follow
     - navigation.top
+    - navigation.indexes
   plugins:
     - search:
         lang: de
+  extra_css:
+  - stylesheets/extra.css
