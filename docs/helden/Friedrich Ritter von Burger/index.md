@@ -12,6 +12,7 @@
 |  | Ludwig Ritter von Burger (Sohn) |
 |  | Maximilian Ritter von Burger (Vater) |
 |  | Arianne von Burger (Mutter) |
+| Religien | evangelisch |
 | Wohnort | Starnberg |
 | Beruf | Battallionschef 171 1. Feldartillerieregiment |
 | Affliationen | Kgl. bayerische Armee |
