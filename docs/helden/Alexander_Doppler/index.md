@@ -8,9 +8,9 @@
 | Geburtsort |  |
 | Statur | durchschnittlich |
 | Familie | |
-| Religien | evangelisch |
+| Religion | evangelisch |
 | Wohnort | München |
-| Beruf | 2. Gendarmeriechef |
+| Beruf | Student, Ingenieur |
 | Affliationen | LMU München |
 | Titel | |
 | Erster Auftritt | [Bayerische Nächte](../../geschichten/Bayerische_Naechte/index.md) |
