@@ -10,3 +10,4 @@
 
 - [München](../orte/Bayern/M%C3%BCnchen/index.md)
 
+- [Nürnberg](../orte/Bayern/N%C3%BCrnberg/index.md)
