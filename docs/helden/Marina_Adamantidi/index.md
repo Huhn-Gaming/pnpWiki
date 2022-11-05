@@ -13,6 +13,7 @@
 | Religion | christlich orthodox |
 | Wohnort | Starnberg |
 | Beruf | Geschäftsfrau |
+| Religion | christlich orthodox |
 | Affliationen | |
 | Titel | von Burger |
 | Erster Auftritt | [Bayerische Nächte](../../geschichten/Bayerische_Naechte/index.md) |

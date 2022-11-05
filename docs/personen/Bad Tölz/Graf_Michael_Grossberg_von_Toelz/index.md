@@ -12,6 +12,7 @@
 | Familie | Grossberg von Tölz |
 | Wohnort | [Bad Tölz](../../../orte/Bayern/Bad%20T%C3%B6lz/index.md) |
 | Beruf | Graf, Philantrop |
+| Religion | katholisch|
 | Affliationen |  |
 | Titel | Graf |
 | Erster Auftritt | [Bayerische Nächte](../../../geschichten/Bayerische_Naechte/index.md) |
@@ -29,7 +30,7 @@ Wie es sich kurz vor seinem Tod herausstellte war Michael geheimerweise ein [Wer
 Am 11.12.1880 wurde sein Passionsprojekt, die Seilbahn zu [Lenggries](../../../orte/Bayern/Lenggries/index.md) eingeweiht. Dazu lud er [Marina Adamantidi](../../helden/Marina_Adamantidi/index.md), [Alexander Doppler](../../helden/Alexander_Doppler/index.md), [Friedrich Pfeiffer](../../helden/Friedrich_Pfeiffer/index.md) als Ehrengäste zu seiner [Bayernhütte am Brauneck](../../../orte/Bayern/Bayernh%C3%BCtte%20am%20Brauneck/index.md) zum Skifahrwochenende ein.
 Während dieser Tage kam es zu einem Angriff von Wölfen während eines Schneesturm auf ihn und seinen Hund [Stüpp](../../../tiere/St%C3%BCpp/index.md). Dabei kam der Hund ums Leben und Michael war so in Rage, dass er sich in seine Werwolfsform verwandelte. Nicht in der Lage seine Wut zu beherrschen griff er die Helden an und kam durch ihre Hand am 13.12.1880 kur nach Mitternacht ums Leben.
 
-Warum er ein Wewolf war und was seine weiteren Pläne waren bleibt bisher unbekannt. 
+Warum er ein Werwolf war und was seine weiteren Pläne waren bleibt bisher unbekannt. 
 
 ---
 

@@ -11,6 +11,7 @@
 | Familie | [Anna Siebert](../../../helden/Anna%20Siebert/index.md) (Tochter) |
 | Wohnort | [Bad Tölz](../../../orte/Bayern/Bad%20T%C3%B6lz/index.md) |
 | Beruf | Bediensteter |
+| Religion | evangelisch|
 | Affliationen | Familie Großberg von Tölz |
 | Titel |  |
 | Erster Auftritt | [Bayerische Nächte](../../../geschichten/Bayerische_Naechte/index.md) |

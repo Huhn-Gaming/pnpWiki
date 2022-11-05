@@ -6,6 +6,6 @@ Schauplatz des zweiten Abenteuers [Gefallener Engel](../../../geschichten/Gefall
 
 ## Kirchen
 
-- [Frauenkirche](../N%C3%BCrnberg/Frauenkirche/index.md)
+- Frauenkirche
 
-- [Hauptsynagoge](../N%C3%BCrnberg/Hauptsynagoge/index.md) am Hans-Sachs-Platz
+- Hauptsynagoge am Hans-Sachs-Platz

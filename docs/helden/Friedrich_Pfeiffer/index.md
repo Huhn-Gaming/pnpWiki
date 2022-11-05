@@ -10,9 +10,9 @@
 | Familie | Frau |
 |  | Tochter |
 |  | Tochter |
-| Religion | katholisch |
 | Wohnort | München |
 | Beruf | 2. Gendarmeriechef |
+| Religion | katholisch |
 | Affliationen | kgl. bayerische Gandarmerie |
 | Titel | |
 | Erster Auftritt | [Bayerische Nächte](../../geschichten/Bayerische_Naechte/index.md) |

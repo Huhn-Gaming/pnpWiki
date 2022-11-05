@@ -11,6 +11,7 @@
 | Familie |  |
 | Wohnort | [Bad Tölz](../../../orte/Bayern/Bad%20T%C3%B6lz/index.md) |
 | Beruf | Bediensteter |
+| Religion | evangelisch|
 | Affliationen | Kgl. bayerische Gendermarie |
 | Titel |  |
 | Erster Auftritt | [Bayerische Nächte](../../../geschichten/Bayerische_Naechte/index.md) |

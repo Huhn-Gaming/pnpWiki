@@ -12,9 +12,9 @@
 |  | Ludwig Ritter von Burger (Sohn) |
 |  | Maximilian Ritter von Burger (Vater) |
 |  | Arianne von Burger (Mutter) |
-| Religien | evangelisch |
 | Wohnort | Starnberg |
 | Beruf | Battallionschef 171 1. Feldartillerieregiment |
+| Religion | evangelisch |
 | Affliationen | Kgl. bayerische Armee |
 | Titel | Ritter von Burger |
 | Erster Auftritt |  |
@@ -31,7 +31,7 @@ Direkt im ersten Kampfeinsatz vor Phillipi am 3. Juni wurde er gefangen genommen
 
 Wieder zu Hause angekommen trat er auf Grund seiner „Erfahrung“  in der Armee in die kgl. Bayerische Kadettenschule ein und fand schnell ein Geschick für Mathematik und die Artillerie. Daraufhin begann sein Aufstieg im 1. Feldartillerieregiment in München in dem er 1880 das Battalion 171 anführen sollte.
 
-Während eines Festballs auf dem Würmsee lernte er Marina Adamantidi kennen und lieben. Die beiden verbrachten so manche Tage am oder auf dem See bis sie sich am 26.11.1877 das Ja-Wort gaben. Seitdem lebte Friedrich im Anwesen seiner Frau direkt am Starnbeger See neben der Werft der Familie. 1879 und 1880 kamen die beiden Söhne Luitpold und Ludwig zur Welt. Diese leben beide die meiste Zeit in dem evangelischen Internat der Abtei Schäftlarn unweit des Sees.
+Während eines Festballs auf dem Würmsee lernte er Marina Adamantidi kennen und lieben. Die beiden verbrachten so manche Tage am oder auf dem See bis sie sich am 26.11.1877 das Ja-Wort gaben. Seitdem lebte Friedrich im Anwesen seiner Frau direkt am Würmsee neben der Werft der Familie. 1879 und 1880 kamen die beiden Söhne Luitpold und Ludwig zur Welt. Diese leben beide die meiste Zeit in dem evangelischen Internat der Abtei Schäftlarn unweit des Sees.
 
 Die beiden verbringen ihre Freizeit mit dem Ausritt zum Internat ihrer Kinder, dem Schiffsbau und Segeln und den immer wiederkehrenden Bällen.
 1880 erfuhren die sie vom Bau der Seilbahn in [Lenggries](../../orte/Bayern/Lenggries/index.md) und investierten eine hohe Summe, sodass Marina zur Einweihung eingeladen wurde. Friedrich hingegen war aufgrund seines Dienstes verhindert.

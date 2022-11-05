@@ -11,6 +11,7 @@
 | Religion | evangelisch |
 | Wohnort | München |
 | Beruf | Student, Ingenieur |
+| Religion | evangelisch|
 | Affliationen | LMU München |
 | Titel | |
 | Erster Auftritt | [Bayerische Nächte](../../geschichten/Bayerische_Naechte/index.md) |
