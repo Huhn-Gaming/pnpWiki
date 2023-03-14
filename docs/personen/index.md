@@ -13,7 +13,7 @@
 
 ### Staat
 
-- [Josef Fuchsberger](Staat/Josef_Fuchsberger/index.md), Wachmeister
+- [Josef Fuchsberger](../personen/Bad%20T%C3%B6lz/Josef_Fuchsberger/index.md), Wachmeister
 
 ## München
 
