@@ -4,7 +4,7 @@
 
 ### Adel
 
-- [Graf Michael Großberg von Tölz](Adel/Graf_Michael_Grossberg_von_Toelz/index.md)
+- [Graf Michael Großberg von Tölz](../personen/Bad%20T%C3%B6lz/Graf_Michael_Grossberg_von_Toelz/index.md)
 
 
 ### Bedienstete
