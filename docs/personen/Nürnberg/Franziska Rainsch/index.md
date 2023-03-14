@@ -24,7 +24,7 @@
 
 Franziska wurde 1880 als das diesjährige Christkind ausgewählt.
 
-Franziska wurde am 20.11.1880 Opfer einer versuchten Körperverletzung welche in ihrem Tod endete. Nachdem sie durch die Aktionen von [Karla Huber](../Karla%20Huber/index.md) einen Stromschlag bekam stürzte sie bei der Christkindansprache von der Empore der [Frauenkirche](../../../orte/Bayern/N%C3%BCrnberg/Frauenkirche/index.md) in ihren Tod
+Franziska wurde am 20.11.1880 Opfer einer versuchten Körperverletzung welche in ihrem Tod endete. Nachdem sie durch die Aktionen von [Karla Huber](../Karla%20Huber/index.md) einen Stromschlag bekam stürzte sie bei der Christkindansprache von der Empore der [Frauenkirche](../../../orte/Bayern/N%C3%BCrnberg/Frauenkirche/index.md) in ihren Tod.
 
 
 ---
