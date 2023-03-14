@@ -1,3 +1,0 @@
-# Gruppierungen
-
-[Custodire Populum]

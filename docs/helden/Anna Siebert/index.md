@@ -1,20 +1,18 @@
-# Marina Adamantidi
+# Anna Siebert
 
-![Marina in ihrer Villa](../Marina_Adamantidi/Marina.jpeg "Marina in ihrer Villa")
+![Marina in ihrer Villa] "Marina in ihrer Villa")
 
-| Name | Marina Adamantidi|
+| Name | Anna "Diana Liebold" Siebert |
 | ---| ---|
-| Geburtstag| 1845 |
+| Geburtstag| 1863 |
 | Geburtsort | Nafplio |
 | Statur | elegant groß |
-| Familie | [Friedrich Ritter von Burger](../Friedrich%20Ritter%20von%20Burger/index.md) (Mann) |
-|  | Luitpold Ritter von Burger (Sohn) |
-|  | Ludwig Ritter von Burger (Sohn) |
-| Religion | christlich orthodox |
-| Wohnort | Starnberg |
-| Beruf | Geschäftsfrau |
+| Familie |  |
+| Religion | evangelisch |
+| Wohnort |  |
+| Beruf | Schülerin |
 | Affliationen | |
-| Titel | von Burger |
+| Titel | |
 | Erster Auftritt | [Bayerische Nächte](../../geschichten/Bayerische_Naechte/index.md) |
 
 ---
@@ -26,24 +24,12 @@
 
 ## Inventar und Begleiter
 
-Pudel [Johnny](../../tiere/Johnny/index.md), gut trainiert durch Bedienstete und das Frauchen
 
-- Handtasche
-
-    - Lippenstift, rot
-
-    - Taschentuch
-
-    - Nähzeug
-
-    - Kamm
-
-- Immer gefüllte Geldbörse
 
 ---
 
 ## Fähigkeiten
 
-[Charakterbogen](../Marina_Adamantidi/Marina.pdf)
+[Charakterbogen](../../helden/Anna%20Siebert/Anna_Siebert.pdf)
 
 
