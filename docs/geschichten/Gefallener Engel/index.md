@@ -39,7 +39,15 @@ Während dessen begab sich Alexander in die Kirche unm dort nach hinweisen oder 
 Nach weiteren Beruhigungen durch Diana stellt sie bald fest, dass eines der Mädchen nicht ganz ihre ehrlichen Gefühle zeigt. Karla scheint weniger geschockt von dem "Was ist passiert", als dem "Wie ist es passiert". Sie behält die Mädchen weiter im Auge und erstattet Friedrich Bericht.
 Dieser versucht nun Karlas Vater, den Priester August vorläufig festzunehmen. Doch dieser wehrt sich und ein halb gefrorener Kopfstein bringt Friedrich zu einem harten Fall. Ein starker Stoß auf den Kopf und er verliert das Bewusstsein.
 
-Er erwacht unter der Pflege von Diana, August wird von den umstehenden Personen festgehalten. Nun kommt alles zusammen: Alexander brachte die Beweise für den Tathergang, der Polizist [Franz Krause](../../personen/N%C3%BCrnberg/Franz%20Krause/index.md) und zwei seiner Männer reiten auf Rossen heran. 
+Er erwacht unter der Pflege von Diana, August wird von den umstehenden Personen festgehalten. Nun kommt alles zusammen: Alexander brachte die Beweise für den Tathergang, der Polizist [Franz Krause](../../personen/N%C3%BCrnberg/Franz%20Krause/index.md) und zwei seiner Männer reiten auf Rossen heran. Die Polizisten kommen nach einer kurzen Absprache schnell zu dem Schluss das der Verdächtige mit auf die Wache genommen werden muss. Die berittenen Gendarme setzen ab und machen sich zur Festnahme bereit. Der Fall scheint abgeschlossen.
+Anstatt sich endgültig seinem Schicksal zu ergeben entschließt sich August Huber dazu einen verzweifelten Fluchtversuch zu starten.
+
+Er streckt seine Arme aus, wobei die Polizisten erwarten, dass er sich nun ergibt. Doch auf dem glitschigen Schnee gaben ihre Stiefel genauso wenig Halt wie die des Obergendarm. Und darauf baut August seinen gesamten Fluchtversuch. Sobald sich die Polizisten vor und hinter hin positioniert haben fährt er mit seinem Kopf blitzschnell nach hinten um den ersten, und mit dem Fuß nach vorne, um den zweiten zu Fall zu bringen. Überrascht von dieser Aktion schauen alle wie gebannt ohne einen Finger zu rühren. August packt seine Adoptivtochter und schwingt sich auf das nächst beste Pferd, gerade wo Kommissar Krause sich durch den Stoß nicht mehr halten kann. Mit den Zügeln in und der Hand und der Tochter unter dem Arm verschwindet er wie der Wind gen Stadtmitte.
+
+Diana reagiert am schnellsten und ist durch ihre Reitkünste ebenso leicht auf dem Pferderücken. Hinter ihr schnappt sich Friedrich das letzte Ross, ist aber um einiges weniger beholfen. Diana schafft es sich langsam den Flüchtenden zu nähern, diese schaffen es gerade so an einem Wagen voller Lebkuchen vorbei, doch Diana springt einfach darüber! Friedrich hat nicht so viel Glück und er bringt das Ross nicht unter Kontrolle. Dieses schafft den Sprung zwar doch er selbst kann sich nicht halten und stürzt weich, aber teuer, auf die armen Lebkuchen.
+August versucht Diana immer wieder abzuschütteln doch diese bleibt dicht auf den Färsen bzw. Hufen. Schlussendlich schafft sie es doch den Kragen des Priester zu packen. Dessen böser Blick ist jedoch das einzige was er ihr entgegen setzen kann.
+
+Er fällt hart zu Boden, seine Arme immer noch um seine Tochter Karla geklammert. Kurz rührt er sich noch bevor Sein von Blut bedeckter Kopf zu Boden sinkt. Der Täter wurde gestellt.
 
 ---
 
