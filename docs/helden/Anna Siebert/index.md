@@ -1,11 +1,13 @@
 # Anna Siebert
 
+<img src="./AnnaSiebert.png" height="300"  />
+
 | Name | Anna "Diana Liebold" Siebert |
 | ---| ---|
 | Geburtstag| 7. April 1863 |
 | Geburtsort | Bad Tölz |
 | Statur | zierlich |
-| Familie | [Erik Siebert](../../../personen/Bad%20T%C3%B6lz/Erik%20Siebert/index.md) (Vadder) |
+| Familie | [Erik Siebert](<../../personen/Bad Tölz/Erik_Siebert/index.md>) (Vadder) |
 | Religion | evangelisch |
 | Wohnort | Bad Tölz |
 | Beruf | Schülerin |
@@ -20,11 +22,10 @@
 Anna wurde am 7. April 1863 als uneheliche Tochter einer Köchin und des Dieners Erik Siebert auf dem Gut Großberg geboren.
 Nachdem ihre leibliche Mutter kurz nach Annas Geburt vom Gut floh, wurde sie von mehreren Bediensteten und ihrem Vater groß gezogen.
 Auch Graf Großberg versuchte immer wieder, Anna gegenüber eine Vaterfigur einzunehmen.
-Annas engste Bezugsperson und Mutterrolle Maria war jedoch stets darauf bedacht, den Grafen von Anna fernzuhalten. 
-Wie sich später herausstellen sollte, ist ihr das nicht immer gelungen.
+Annas engste Bezugsperson und Mutterrolle Maria war, aufgrund seiner aufdringlichen Art, stets darauf bedacht, den Grafen von Anna fernzuhalten.
 
 Ihre Kindheit war zunächst von Liebe, Fürsorge und Fleiß geprägt.
-Unter der Obhut von mehreren Mägden hat sie früh die Aufgaben einer Hausfrau erlernt. 
+Unter der Obhut von mehreren Mägden hat sie früh die Fähigkeiten einer Hausfrau erlernt. 
 Doch auch in der Schule zeigte sie sich wissbegierig und erbrachte herausragende Leistungen.
 
 Seit dem Alter von 8 Jahren wurde Anna von fürchterlichen Albträumen geplagt. Oft handelten die Träume davon, dass sie sich in einer dunklen Zelle mit dem Grafen befindet, der über sie gebeugt ist und ihr unerträgliche Schmerzen an Armen und Beinen zufügt.
