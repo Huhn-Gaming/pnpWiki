@@ -1,4 +1,4 @@
 # Bayern
 
-[Auf Google](https://de.wikipedia.org/wiki/Bayern)
+[Auf Wikipedia](https://de.wikipedia.org/wiki/Bayern)
 
