@@ -11,3 +11,7 @@
 ## [Friedrich Pfeiffer](../helden/Friedrich_Pfeiffer/index.md)
 
 ## [Marina Adamantidi](../helden/Marina_Adamantidi/index.md)
+
+## [Maximilian Lanzinger](../helden/Maximilian%20Lanzinger/index.md)
+
+## [Michael Reichelt](../helden/Michael%20Reichelt/index.md)
