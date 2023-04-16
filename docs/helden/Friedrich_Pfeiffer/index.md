@@ -14,6 +14,7 @@
 | Beruf | 2. Gendarmeriechef |
 | Religion | katholisch |
 | Affliationen | kgl. bayerische Gandarmerie |
+| | [Custodire Popolum](../../gruppierungen/Custodire%20Populum/index.md) |  
 | Titel | |
 | Erster Auftritt | [Bayerische Nächte](../../geschichten/Bayerische_Naechte/index.md) |
 

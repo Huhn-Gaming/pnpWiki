@@ -13,6 +13,7 @@
 | Beruf | Student, Ingenieur |
 | Religion | evangelisch|
 | Affliationen | LMU München |
+| |[Custodire Popolum](../../gruppierungen/Custodire%20Populum/index.md) |
 | Titel | |
 | Erster Auftritt | [Bayerische Nächte](../../geschichten/Bayerische_Naechte/index.md) |
 

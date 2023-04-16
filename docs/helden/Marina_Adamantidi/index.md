@@ -10,11 +10,10 @@
 | Familie | [Friedrich Ritter von Burger](../Friedrich%20Ritter%20von%20Burger/index.md) (Mann) |
 |  | Luitpold Ritter von Burger (Sohn) |
 |  | Ludwig Ritter von Burger (Sohn) |
-| Religion | christlich orthodox |
 | Wohnort | Starnberg |
 | Beruf | Geschäftsfrau |
 | Religion | christlich orthodox |
-| Affliationen | |
+| Affliationen | [Custodire Popolum](../../gruppierungen/Custodire%20Populum/index.md)|
 | Titel | von Burger |
 | Erster Auftritt | [Bayerische Nächte](../../geschichten/Bayerische_Naechte/index.md) |
 

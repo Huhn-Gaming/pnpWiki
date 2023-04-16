@@ -7,6 +7,7 @@ Geheimbund zum Schutz der Menschheit und zum Verderben von schädlichen Wesen
 ### Vorsitzende
 
 - [Helene Berthold](../../personen/N%C3%BCrnberg/Helene%20Berthold/index.md), Kammervorsitzende Mittelfranken
+- [Max Hilde](../../personen/Berlin/Max%20Hilde/index.md), Kammervorsitzender Berlin
 
 ### Jäger
 
@@ -15,6 +16,10 @@ Geheimbund zum Schutz der Menschheit und zum Verderben von schädlichen Wesen
 - [Diana Liebold](../../helden/Anna%20Siebert/index.md)
 
 - [Marina Adamantidi](../../helden/Marina_Adamantidi/index.md)
+
+- [Maximilian Lanzinger](../../helden/Maximilian%20Lanzinger/index.md) 
+
+- [Michael Reichelt](../../helden/Michael%20Reichelt/index.md)
 
 - [Friedrich Pfeiffer](../../helden/Friedrich_Pfeiffer/index.md)
 
@@ -27,3 +32,5 @@ Geheimbund zum Schutz der Menschheit und zum Verderben von schädlichen Wesen
 - [Aaron Liebschitz](../personen/N%C3%BCrnberg/Aaron%20Liebschitz/index.md), Jung-Rabbiner der Hauptsynagoge am Hans-Sachs-Platz
 
 - [Jaspal Ranshar](../personen/N%C3%BCrnberg/Jaspal%20Ranshar/index.md), britischer Gewürzhändler immer auf Reise
+
+- Werner Schmied, Schmied aus Berlin

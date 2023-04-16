@@ -16,6 +16,7 @@
 | Beruf | Battallionschef 171 1. Feldartillerieregiment |
 | Religion | evangelisch |
 | Affliationen | Kgl. bayerische Armee |
+| | [Custodire Popolum](../../gruppierungen/Custodire%20Populum/index.md)|
 | Titel | Ritter von Burger |
 | Erster Auftritt |  |
 

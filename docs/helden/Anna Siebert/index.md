@@ -7,10 +7,11 @@
 | Geburtstag| 7. April 1863 |
 | Geburtsort | Bad Tölz |
 | Statur | zierlich |
-| Familie | [Erik Siebert](<../../personen/Bad Tölz/Erik_Siebert/index.md>) (Vadder) |
+| Familie | [Erik Siebert](<../../personen/Bad Tölz/Erik_Siebert/index.md>) (Vater) |
 | Religion | evangelisch |
 | Wohnort | Bad Tölz |
 | Beruf | Schülerin |
+| | [Custodire Popolum](../../gruppierungen/Custodire%20Populum/index.md)
 | Affliationen | |
 | Titel | |
 | Erster Auftritt | [Bayerische Nächte](../../geschichten/Bayerische_Naechte/index.md) |
