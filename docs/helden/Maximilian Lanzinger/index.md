@@ -4,7 +4,7 @@
 
 | Name | Maximilian Lanzinger |
 | ---| ---|
-| Geburtstag| (31) |
+| Geburtstag| 25.04.1849 |
 | Geburtsort |  |
 | Statur | ledig |
 | Familie | Waise |
