@@ -1,6 +1,7 @@
 # Maximilian Lanzinger
 
-![Marina in ihrer Villa]( "Marina in ihrer Villa")
+![Maximilian vor seinem Geschäft](../Maximilian%20Lanzinger/Maximilian.jpg
+ "Maximilian vor seinem Geschäft")
 
 | Name | Maximilian Lanzinger |
 | ---| ---|
