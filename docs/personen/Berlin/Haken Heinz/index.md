@@ -1,31 +1,30 @@
-# Sepp Hinklduber
+# Haken Heinz
 
-![Sepp in seiner Tracht](../Sepp%20Hinklduber/Sepp_Hinkelduber.jpg "Sepp in seiner Tracht")
+![Heinz am Hafen](../Haken%20Heinz/HakenHeinz.jpg "Heinz am Hafen")
 
 
-| Name | Sepp Hinklduber|
+| Name | "Haken" Heinz |
 | ---| ---|
-| Geburtstag| 30.01.1798 |
-| Geburtsort | Veitsbronn|
-| Statur | grau und kraftvoll |
-| Familie | Ehefrau, 3 Söhne und 2 Töchter, 8 Enkel und 7 Urenkel |
-| Wohnort | Veitsbronn|
-| Beruf | Landwirt |
-| Religion | katholisch|
-| Affliationen | [Custodire Populum](../../gruppierungen/Custodire%20Populum/index.md) |
+| Geburtstag| 05.04.1856 |
+| Geburtsort | Berlin |
+| Statur | tätowiert und kraftprotzig |
+| Familie | |
+| Wohnort | Berlin |
+| Beruf | Zuhälter |
+| Religion | evangelisch |
+| Affliationen |  |
 | Titel | |
-| Erster Auftritt | [Gefallener Engel](../../../geschichten/Gefallener%20Engel/index.md) |
+| Erster Auftritt | [Alles hat ein Ende, nur die Wurst hat Zwei](../../geschichten/Alles%20hat%20ein%20Ende%20nur%20die%20Wurst%20hat%20Zwei/index.md) |
 
 ---
 
 ## Biographie
 
-Sepp arbeitete sein ganzen Leben als Landwirt, zuerst auf dem Bauernhof seines Vaters, den er später erben sollte. Dort ereigneten sich sich vor 50 Jahren merkwürdige Ereignisse, als die Schafsherden von Sepp in der Nacht immer wieder angegriffen wurden und einzelne Schafe rissen.
-Daher blieb Sepp und sein Knecht in manchen Nächten lange auf um die Herde zu bewachen. Dort erschossen sie bald eines der Tiere, welche die Schafe tötete, in Wahrheit ein Monster war. Der sogenannte [Nachtgiger](../../../monster/Nachtgiger/index.md). Da es nicht der einzige seiner Art war und das Töten der Schafe nicht abließ verfolgte Sepp einen der Nachtgiger zurück zu ihrem Nest. Dort wartete er auf den Tagesanbruch und tötete in der Helligkeit die im Nest eingeschlossenen Kreaturen.
+Heinz wurde bald in die kriminellen Strukturen in Berlin gezogen und arbeitete sich schnell zum Zuhälter nach oben. Auf der Suche nach eigenem Territorium fand er sich im Industrieviertel von Berlin und brachte durch seine Kenntnisse über die polnische Sprache die polnischen Prostituierten unter seine Faust.
 
-Sepp zeigte die Kreaturen einem Tierarzt, welcher sofort die [Custodire Populum](../../gruppierungen/Custodire%20Populum/index.md) verständigte und den Fall an sie weitergab. Beeindruckt von Sepps Alleingang und Erfolg wurde er als Jäger in den Zirkel aufgenommen.
+Den Helden begegnete er zuerst an der [Weidendammer Brücke](../../../orte/Preu%C3%9Fen/Berlin/Weidendammenr%20Br%C3%BCcke/index.md) wo er [Marina Adamantidi](../../helden/Marina_Adamantidi/index.md) beleidigte und aus seinem Revier vertreiben wollte. Er selbst wurde daraufhin von [Carl Großmann](../../personen/Berlin/Carl%20Gro%C3%9Fmann/index.md) in die Flucht geschlagen und von ihm als Ablenkung benutzt.
 
-Am 20.12.1880 wurde er nach nach über 40 Jahren im Bund ehrenhaft entlassen.
+Heinz kam daraufhin schnell unter Verdacht ein Vampir zu sein, was sich aber nach der Beschattung als falsch herausstellte.
 
 
 ---
