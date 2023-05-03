@@ -4,7 +4,7 @@
 
 | Datum:                     |  07.04.2023                      |
 |    ---                     |---                               | 
-|**Teilnehmer:**         |                                     [Diana Leibold](../../helden/Anna%20Siebert/index.md)\|             [Alexander Doppler](../../helden/Alexander_Doppler/index.md) \|               [Friedrich Ritter von Burger](../../helden/Friedrich%20Ritter%20von%20Burger/index.md) \| [Marina Adamantidi](../../helden/Marina_Adamantidi/index.md) \| [Maximilian Lanzinger](../../helden/Maximilian%20Lanzinger/index.md) \| [Michael Reichelt](../../helden/Michael%20Reichelt/index.md)|            
+|**Teilnehmer:**         |                                     [Diana Leibold](../../helden/Anna%20Siebert/index.md) \|             [Alexander Doppler](../../helden/Alexander_Doppler/index.md) \|               [Friedrich Ritter von Burger](../../helden/Friedrich%20Ritter%20von%20Burger/index.md) \| [Marina Adamantidi](../../helden/Marina_Adamantidi/index.md) \| [Maximilian Lanzinger](../../helden/Maximilian%20Lanzinger/index.md) \| [Michael Reichelt](../../helden/Michael%20Reichelt/index.md)|            
 | **Veranstaltungsort:**        |            **Casa Pfeufer-Siegling**    |
 | **Spielzeit:**                | **Dienstag 11.01 - Donnerstag 13.01.1881**            |
 | **Schauplätze:**                | **[Berlin](../../orte/Preu%C3%9Fen/Berlin/index.md)**            |
@@ -17,7 +17,7 @@
 
 In Berlin treibt ein Mörder sein Unwesen. Menschen, vor Allem ausländische Frauen, verschwinden in großer Anzahl. Die Polizei ist hilflos aber auch wenig bemüht. Aufgrund der merkwürdigen Umständen der Falls ruft ein polizeilicher Informant die Berliner [Custodire Populum](../../gruppierungen/Custodire%20Populum/index.md) auf den Plan. Diese ist aber in ihren Ressourcen begrenzt und der Kammervorsitzender [Max Hilde](../../personen/Berlin/Max%20Hilde/index.md) ist nicht in der Lage dem Treiben ein Ende zu bereiten. Daher ruft er alle Jäger aus dem deutschen Reich auf ihm zu helfen. Und unsere Helden und zwei neue Gefährten antworten.
 
-Zusammen mit den neuen Mitgliedern [Maximilian Lanzinger](../../helden/Maximilian%20Lanzinger/index.md) und [Michael Reichelt](../../helden/Michael%20Reichelt/index.md) reisen [Diana Leibold](../../helden/Anna%20Siebert/index.md)  ,           [Alexander Doppler](../../helden/Alexander_Doppler/index.md)  ,             [Friedrich Ritter von Burger](../../helden/Friedrich%20Ritter%20von%20Burger/index.md), [Marina Adamantidi](../../helden/Marina_Adamantidi/index.md) und ihr Hund [Johnny](../../tiere/Johnny/index.md) mit dem Zug nach Berlin. Dort besprechen sie sich zusammen mit Max Hilde in dessen Schuhladen und Versteck um das weitere Vorgehen zu planen und Informationen zu bekommen.
+Zusammen mit den neuen Mitgliedern [Maximilian Lanzinger](../../helden/Maximilian%20Lanzinger/index.md) und [Michael Reichelt](../../helden/Michael%20Reichelt/index.md) reisen [Diana Leibold](../../helden/Anna%20Siebert/index.md),           [Alexander Doppler](../../helden/Alexander_Doppler/index.md),             [Friedrich Ritter von Burger](../../helden/Friedrich%20Ritter%20von%20Burger/index.md), [Marina Adamantidi](../../helden/Marina_Adamantidi/index.md) und ihr Hund [Johnny](../../tiere/Johnny/index.md) mit dem Zug nach Berlin. Dort besprechen sie sich zusammen mit Max Hilde in dessen Schuhladen und Versteck um das weitere Vorgehen zu planen und Informationen zu bekommen.
 
 
 ---
