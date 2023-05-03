@@ -1,6 +1,6 @@
 # John Titan
 
-![John auf einem Ausflug](../John%20Titan/John%20Titan.jpg "John auf einem Ausflug")
+![John auf einem Ausflug](../John%20Titan/John%20Titan.png "John auf einem Ausflug")
 
 
 | Name | John Seymour Joshua Titan Jr.|
@@ -20,8 +20,11 @@
 
 ## Biographie
 
+John Titan Jr. ist der sein des reichen Geschäftsmanns John Titan Sr., der bereits an der Nordküste der Vereinigten Staaten mehrere Reedereien und Werften unterhielt. Durch einen kleinen Kredit seines Vaters war es ihm möglich in Deutschland Fuß zu fassen und in Berlin eine erfolgreiche Werft für Flussschiffe aufzubauen.
 
+Auf seinen Reisen rund um Europa traf er die junge [Marina Adamantidi](../../helden/Marina_Adamantidi/index.md) und hielt mit ihr über Briefe die Verbindung.
 
+1881 traf er sie wieder, als die Helden die Spree untersuchen mussten und sich von John einen Taucheranzug ausliehen.
 
 ---
 

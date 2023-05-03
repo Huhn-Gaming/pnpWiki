@@ -6,6 +6,7 @@
 
 ## Humanoiden
 
+- [Gnom](../monster/gnom/index.md)
 - [Vampir](../monster/Vampir/)
 
 ## Tiergestalten
