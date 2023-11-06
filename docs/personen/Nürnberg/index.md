@@ -1,6 +1,6 @@
 # Nürnberg
 
-- [Franziska Rainsch](../N%C3%BCrnberg/Franziska%20Rainsch/index.md), Christkind und Mordopfer
+- [Franziska Rainsch](../N%C3%BCrnberg/Franziska%20Rainsch/index.md) †, Christkind und Mordopfer
 
 - [Karla Huber](../N%C3%BCrnberg/Karla%20Huber/index.md), Christkindhelfer und Mörderin
 

@@ -10,4 +10,4 @@
 
 ### Monster
 
-- [Carl Großmann](../Berlin/Carl%20Gro%C3%9Fmann/index.md), Vampir und Wurstverkäufer
+- [Carl Großmann](../Berlin/Carl%20Gro%C3%9Fmann/index.md) †, Vampir und Wurstverkäufer

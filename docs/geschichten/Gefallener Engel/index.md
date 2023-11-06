@@ -4,6 +4,7 @@
 
 | Datum:                     |  29.10.2022                      |
 |    ---                     |---                               | 
+|**Spielleiter:**| **Julian** |
 |**Teilnehmer:**                |                                                 **[Diana Liebold](../../helden/Anna%20Siebert/index.md) \|             [Alexander Doppler](../../helden/Alexander_Doppler/index.md) \|               [Friedrich Pfeiffer](../../helden/Friedrich_Pfeiffer/index.md)**|            
 | **Veranstaltungsort:**        |            **Casa Dauner**    |
 | **Spielzeit:**                | **Montag 14.12.1880 und Sonntag 20.12.1880**            |

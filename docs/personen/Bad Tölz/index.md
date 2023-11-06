@@ -2,7 +2,7 @@
 
 ### Adel
 
-- [Graf Michael Großberg von Tölz](../Bad%20T%C3%B6lz/Graf_Michael_Grossberg_von_Toelz/index.md) Graf, Seilbahnbauer und Werwolf 
+- [Graf Michael Großberg von Tölz](../Bad%20T%C3%B6lz/Graf_Michael_Grossberg_von_Toelz/index.md) † Graf, Seilbahnbauer und Werwolf 
 
 ### Bedienstete
 

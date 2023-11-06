@@ -11,3 +11,5 @@
 
 ## [Nürnberg](../personen/N%C3%BCrnberg/index.md)
 
+## [Paris](../personen/Paris/index.md)
+
