@@ -40,3 +40,6 @@ Helene wandelt nun mit ihren Krücken in der Bibliothek umher und unterstützt d
 ## Fähigkeiten
 
 - vorzügliches Allgemeinwissen
+- Bibliothekarin
+- Okkultistin
+- Anführerin

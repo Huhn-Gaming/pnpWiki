@@ -39,3 +39,6 @@ Er wartet im Zuchthaus in Nürnberg mit seiner Tochter auf seine Verurteilung.
 ---
 
 ## Fähigkeiten
+
+- Theologie
+- Predigen

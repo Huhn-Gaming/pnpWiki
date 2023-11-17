@@ -32,3 +32,8 @@ Ist Mitglied der [Custodire Populum](../../../gruppierungen/Custodire%20Populum/
 ---
 
 ## Fähigkeiten
+
+- Predigen
+- Lobpreisen
+- Rabbinerausbildung
+- Ritualist

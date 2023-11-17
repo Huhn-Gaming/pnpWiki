@@ -36,3 +36,8 @@ Aufgrund seiner Eigeninitiative wurde er als Jäger in den Geheimbund aufgenomme
 ---
 
 ## Fähigkeiten
+
+- Okkultist
+- Finanzier
+- Belesen
+- Charismat

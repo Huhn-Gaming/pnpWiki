@@ -32,6 +32,11 @@ Am 20.12.1880 wurde er nach nach über 40 Jahren im Bund ehrenhaft entlassen.
 
 ## Inventar und Begleiter
 
+- Landwirtschaftler
+- Holzfäller
+- Okkultist
+- Meisterschütze
+
 
 
 ---

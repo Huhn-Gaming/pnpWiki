@@ -4,7 +4,7 @@
 
 | Name | Friedrich PFeiffer |
 | ---| ---|
-| Geburtstag| 1838 |
+| Geburtstag| 13.08.1838 |
 | Geburtsort |  |
 | Statur | leicht untersetzt |
 | Familie | Frau |

@@ -27,8 +27,12 @@ Franz wurde mit zwei seiner Polizisten zur [Frauenkirche](../../../orte/Bayern/N
 
 ## Inventar und Begleiter
 
--Polizeiausrüstung
+- Reichsrevolver mit 6 Schuss
+- Handschellen
 
 ---
 
 ## Fähigkeiten
+
+- Spürnase
+- Reiter

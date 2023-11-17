@@ -30,8 +30,12 @@ Auf seinen Reisen rund um Europa traf er die junge [Marina Adamantidi](../../hel
 
 ## Inventar und Begleiter
 
-
+- Gehstock
 
 ---
 
 ## Fähigkeiten
+
+- Ingenieur
+- Geschäftsmann
+- Rechengenie

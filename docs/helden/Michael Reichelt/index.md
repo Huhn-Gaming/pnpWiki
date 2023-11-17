@@ -4,7 +4,7 @@
 
 | Name | Michael Reichelt|
 | ---| ---|
-| Geburtstag| 1850 |
+| Geburtstag| 03.02.1850 |
 | Geburtsort |  |
 | Statur | schlank groß |
 | Familie | Maria Reichelt (Frau), verstorben |

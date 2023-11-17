@@ -16,7 +16,7 @@ Einige der Gebissenen überleben die Verwandlung nicht, und der Zeitpunkt der Ve
 ## Kräfte und Fähigkeiten
 
 - Gestaltwandeln: Werwölfe können sich in eine wolfsähnliche Kreatur verwandeln. 
-- Infektiöser Biss:Wenn ein Werwolf in Tiergestalt ist, kann er eine andere Person durch einen Biss in einen Werwolf verwandeln. 
+- Infektiöser Biss: Wenn ein Werwolf in Tiergestalt ist, kann er eine andere Person durch einen Biss in einen Werwolf verwandeln. 
 - Klauen und Reißzähne: Werwölfe haben mächtige Klauen und sind in der Lage, feste Wände zu durchtrennen. Ihre Reißzähne können menschliches Fleisch zerreißen und ein menschliches Herz direkt aus der Brusthöhle herausreißen.
 - Superstärke: Ein Werwolf ist viel stärker als ein Mensch. Sie können Menschen mit Leichtigkeit überwältigen und Fleisch und Knochen mit erstaunlicher Kraft zerreißen. Ihre Stärke ist selbst für Monster bemerkenswert, denn es wurde beobachtet, dass sie in der Lage sind, mit ihren bloßen Händen Stein zu zerschlagen. 
 - Verbesserte Agilität: Ihre Agilität ist größer als die der Menschen und erlaubt es ihnen oft, Sprünge über unglaubliche Höhen und Entfernungen zu machen und sogar vertikale Oberflächen zu erklimmen. Ihre Agilität erlaubt es ihnen auch, leicht und schnell zu sprinten.

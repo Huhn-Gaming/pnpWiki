@@ -1,41 +1,41 @@
-# August Huber
+# Laurette Gondié
 
-![August nach einer Predigt](../August%20Huber/August_Huber.jpg "August nach einer Predigt")
+![Laurette vor der Arbeit](../Laurette%20Gondié/Hausmaedchen.png "Laurette vor der Arbeit")
 
 
-| Name | August Huber|
+| Name | Laurette Gondié |
 | ---| ---|
-| Geburtstag| 10.12.1842 |
-| Geburtsort | Berchtesgaden |
-| Statur | leicht übergewichtig |
-| Familie | [Karla Huber](../Karla%20Huber/index.md) |
-| Wohnort | [Nürnberg](../../../orte/Bayern/N%C3%BCrnberg/index.md)|
-| Beruf | Kath. Priester |
-| Religion | katholisch|
-| Affliationen | Katholizismus |
-| Titel | Rabbiner |
-| Erster Auftritt | [Gefallener Engel](../../../geschichten/Gefallener%20Engel/index.md) |
+| Geburtstag| 02.03.1850 |
+| Geburtsort | Versailles |
+| Todestag| 15.08.1881 |
+| Todesort| [Anwesen Frochot](../../../orte/Frankreich/Paris/Anwesen%20Frochot/index.md) in Paris |
+| Statur | schlank und stolz |
+| Familie | 2 Schwestern |
+| Wohnort | [Paris](../../../orte/Frankreich/Paris/index.md)|
+| Beruf | Hausmädchen |
+| Religion | katholisch |
+| Affliationen | [Michele Frochot](../../Paris/Michele%20Frochot/index.md)  |
+| Titel |  |
+| Erster Auftritt | [Die Geistersprenger](../../../geschichten/Geistersprenger/index.md) |
 
 ---
 
 ## Biographie
 
-August adoptierte 1874, während seines Theologiestudiums, seine Tochter [Karla Huber](../Karla%20Huber/index.md), welche an den Stufen der [Frauenkirche](../../../orte/Bayern/N%C3%BCrnberg/Frauenkirche/index.md) ausgesetzt wurde. Trotz des Widerstandes aus der Kirche und Gerüchte um seine Vaterschaft widmete er sich seiner Tochter voll und ganz.
+Laurette wurde in als jüngste Schwester in eine Familie von Bediensteten am Hof des Kaisers Napoleon III. geboren. Nach kurzer Anstellung an eben diesem Hof wurde ihr Dienst und der ihrer gesamten Familie nach der Niederlage des Kaisers und dessen Gefangennahme durch das Preußische Königreich 1870 beendet. Um schnellstmöglich eine neue Anstellung zu finden wurde sie auf das Angebot von [Michele Frochot](../../Paris/Michele%20Frochot/index.md) aufmerksam. In dessen [Villa](../../../orte/Frankreich/Paris/Anwesen%20Frochot/index.md) war der Durchsatz an Bediensteten besonders hoch, doch kurz vor der Verzweiflung nahm sie an. Auf Kurz oder Lang erlebte sie wie jeder andere Besucher merkwürdigen Ereignisse rund um das Überbleibsel von Michele Frochot. Im Gegensatz zu anderen Menschen war sie dessen jedoch angetan und wurde schnell zu einer engen Verbündeten der Totenseele Michele. Dieser weihte sie in sein Geheimnis ein und seit dem horchte Laurette auf seinen jeden Willen.
 
-Am 20.12.1880 setzte er den Plan siener Tochter in Gang, damit sie an Heiligabend das Christkind spielen konnte. Dazu musste [Franziska Rainsch](../Franziska%20Rainsch/index.md) außer Gefecht gesetzt werden. Hierfür sollte ein Elektroschock sorgen, bis zum 24.12. war es nicht mehr lange.
-Doch Franziska stürzte von der Empore der Frauenkirche und verstarb sofort. Verzweifelt spielte August den erbosten Priester, doch dies erweckte nur mehr Aufsehen. Um von seiner Tochter abzulenken, welche das Werkzeug zum Zerschneiden der Kabel besaß, legte er sich mit [Friedrich Pfeiffer](../../../helden/Friedrich_Pfeiffer/index.md) und den Beobachtern an.
-
-Um sich und Karla schlussendlich zu retten wiedersetzte er sich seiner Festnahme und kaperte er ein Pferd. Auf der wilden Jagd erlag er aber den Reitkünsten von [Diana Liebold](../../../helden/Anna%20Siebert/index.md) und erlitt bei dem Sturz vom Pferd eine Gehirnerschütterung. Er hätte sich selbst schützen können, doch entschloss sich seine Tochter vor dem AUfprall zu bewahren.
-
-Er wartet im Zuchthaus in Nürnberg mit seiner Tochter auf seine Verurteilung.
+Nach dem Tod des Vampirs [Carl Großmanns](../../Berlin/Carl%20Großmann/index.md) half Laurette um die Helden in die Villa Frochot zu locken und die Rache von Michele wahr werden zu lassen. Die Helden sollten langsam in den Wahnsinn getrieben werden und nach und nach von Michele gefoltert um ein Geständnis abzugeben. Dann sollten sie qualvoll sterben. Laurette versteckte sich in der Nacht im Geheimdach über der Scheune der Villa um kein Kollateralschaden zu werden und Teile der Überreste von Michele in vorm von Büchern und Akten zu bewachen. Doch die [Custodire Populum](../../../gruppierungen/Custodire%20Populum/index.md) schlugen sich viel besser als man erwartete und waren glücklich genug Laurettes Versteck zu entdecken. Dort versuchte sie durch verrückte Angriffe mit einem Küchenmesser die Gruppe zu vertreiben. Einige Angriffe fanden ihr Ziel doch schlussendlich fand Laurette im Kugelhagel der Revolver von [Friedrich Pfeiffer](../../helden/Friedrich_Pfeiffer/index.md) und [Michael Reichelt](../../helden/Michael%20Reichelt/index.md) ihr Ende. Später verbrennt ihre Leiche bis von ihr kein Haufen Asche ,ehr übrig bleibt.
 
 
 ---
 
 ## Inventar und Begleiter
 
--Traditionelle katholische Priesterausstattungen
+- Küchenmesser
+
 
 ---
 
 ## Fähigkeiten
+
+- Gelernte Köchin

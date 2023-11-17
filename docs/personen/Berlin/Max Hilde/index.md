@@ -37,3 +37,5 @@ Seit dem Tod seiner Frau benimmt sich Max hin und wieder komisch und verwirrt. T
 ---
 
 ## Fähigkeiten
+
+- Schuster

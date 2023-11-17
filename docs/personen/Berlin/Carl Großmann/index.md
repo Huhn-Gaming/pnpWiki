@@ -46,4 +46,5 @@ Dort wurde er aber erst durch die restlichen Helden unterbrochen und schlussendl
 
 ## Fähigkeiten
 
-Normale Vampirfähigkeiten
+- Normale Vampirfähigkeiten
+- Grillmeister

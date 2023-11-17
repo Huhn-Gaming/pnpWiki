@@ -36,3 +36,6 @@ Heinz kam daraufhin schnell unter Verdacht ein Vampir zu sein, was sich aber nac
 ---
 
 ## Fähigkeiten
+
+- Barschläger
+- Geschäftsmann

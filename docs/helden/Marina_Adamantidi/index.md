@@ -4,7 +4,7 @@
 
 | Name | Marina Adamantidi|
 | ---| ---|
-| Geburtstag| 1845 |
+| Geburtstag| 01.05.1845 |
 | Geburtsort | Nafplio |
 | Statur | elegant groß |
 | Familie | [Friedrich Ritter von Burger](../Friedrich%20Ritter%20von%20Burger/index.md) (Mann) |

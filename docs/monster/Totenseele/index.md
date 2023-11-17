@@ -1,36 +1,26 @@
-# Werwolf
+# Totenseele
 
-Quelle: https://supernatural.fandom.com/wiki/Werewolf
+Quelle: https://monster.fandom.com/wiki/Yurei
 
-Lykanthropen, die hauptsächlich als Werwölfe bekannt sind, sind eine Rasse von teilweise menschlichen, übernatürlichen Kreaturen, die sich in eine Kombination aus Mensch und Wolf verwandeln können. Im Frühstadium kann die Krankheit manchmal durch eine Transfusion von Lebendblut des Werwolfsvaters geheilt werden.
+Totenseelen sind Geister von Toten, welche aus verschiedenen Gründen an ihrem alten Leben oder der Welt hängen geblieben sind. Gerade Menschen, welche durch Mord, Selbstmord oder grausame Unfälle umgekommen sind können nicht Abschied nehmen. 
+Sie bleiben meist an dem Ort ihres Todes zurück oder sind an Gegenständen gebunden. Ihre Aggressivität ist ebenso abhängig durch die Art ihres Todes und die Stärke ihres Geistes. Auch wie man sie in das Reich der Toten bändigt ist selten von Totenseele zu Totenseele gleich.
 
 ## Aussehen
 
-Werwölfe sind humanoide Fleischfresser, die ultimative Kombination aus Wolf und Mensch. Unverwandelt in normaler Menschengestalt haben sie ihn WOlfsgestalt große Ähnlichkeit zu ihren Namensgebern. Doch sind sie um einiges größer, stärker und blutrünstiger und können mit Leichtigkeit auf zwei Beinen gehen.
-Sie ernähren sich von Beutetieren, die sie in der Nähe finden, und das sind aufgrund der Zunahme der städtischen Gebiete meist Menschen. Wenn sie das Fleisch eines Opfers verschlingen, hinterlassen sie eine erkennbare Spur auf der Beute: Sie fressen immer das Herz, obwohl sie manchmal auch mehr vom Körper essen. Die Verwandlung erfolgt erst nach dem Biss eines Opfers, so wie Werwölfe die Verbreitung der Lykanthropie fortsetzen. Sie sind jedoch auch in der Lage, Kinder zu bekommen, die als Werwölfe geboren werden.
-
-Die Verwandlung des Werwolfs wird durch Mondlicht, vor allem bei Vollmond, oder durch große Schmerzen und Angst erzwungen. Nur wenigen, sehr fähigen Werwölfen ist es möglich sich auf Kommando zu verwandeln. 
-
-Einige der Gebissenen überleben die Verwandlung nicht, und der Zeitpunkt der Verwandlung kann vom nächsten Vollmond bis zu einem beliebigen Zeitpunkt reichen.
+Totenseelen nehmen meist ihr altes menschliches Aussehen an, meist in der Kleidung mit der sie sich identifizieren. Diese Geister sind viel weniger aggressiv und eher nervend. Seltener gestalten sie ihr Äußeres angehalten an ihre größten Ängste, Hoffnungen, Feinde oder Fantasien. Diese Geister haben eine höhere Kontrolle über sich und ihre Umgebung und betreiben aktiv Jagd auf Menschen.
 
 ## Kräfte und Fähigkeiten
 
-- Gestaltwandeln: Werwölfe können sich in eine wolfsähnliche Kreatur verwandeln. 
-- Infektiöser Biss:Wenn ein Werwolf in Tiergestalt ist, kann er eine andere Person durch einen Biss in einen Werwolf verwandeln. 
-- Klauen und Reißzähne: Werwölfe haben mächtige Klauen und sind in der Lage, feste Wände zu durchtrennen. Ihre Reißzähne können menschliches Fleisch zerreißen und ein menschliches Herz direkt aus der Brusthöhle herausreißen.
-- Superstärke: Ein Werwolf ist viel stärker als ein Mensch. Sie können Menschen mit Leichtigkeit überwältigen und Fleisch und Knochen mit erstaunlicher Kraft zerreißen. Ihre Stärke ist selbst für Monster bemerkenswert, denn es wurde beobachtet, dass sie in der Lage sind, mit ihren bloßen Händen Stein zu zerschlagen. 
-- Verbesserte Agilität: Ihre Agilität ist größer als die der Menschen und erlaubt es ihnen oft, Sprünge über unglaubliche Höhen und Entfernungen zu machen und sogar vertikale Oberflächen zu erklimmen. Ihre Agilität erlaubt es ihnen auch, leicht und schnell zu sprinten.
-- Superausdauer: Werwölfe ermüden nicht so schnell, was es ihnen ermöglicht, sich länger und in übermenschlicher Weise körperlich zu verausgaben.
-- Supersinne: Alle Werwölfe können in der Dunkelheit besser sehen als Menschen, ähnlich wie echte Wölfe, ihr Geruchssinn und ihr Gehör sind ebenfalls verbessert. Selbst in Menschengestalt behalten Werwölfe einen Teil ihrer verbesserten Sinne.
-- Unverwundbarkeit: Werwölfe können mit herkömmlichen Mitteln und Waffen nicht getötet und nur verletzt werden. Bestimmte übernatürliche Waffen und auch Silber können sie jedoch töten. Werwölfe können auch durch Enthauptung getötet werden, ebenso wie bestimmte übernatürliche Wesen.
-- Regeneration: Werwölfe können alle nicht-tödlichen Schäden regenerieren. Werwölfe können sogar Schäden heilen, die für Menschen tödlich wären und selbst wenn sie sich in einen Werwolf verwandeln, nachdem sie eine solche Verletzung erlitten haben, können sie heilen.
+- Spektraler Körper: Normale Geister können durch Wände und andere Dinge schweben und ihre Gestalt komplett von den Augen von Sterblichen verbergen und das Aussehen verändern. Einfachen Geistern ist diese Fähigkeit vorenthalten.
+- Umgebungskontrolle: Normale Geister haben volle telepathische Kontrolle über Gegenstände in ihrer Nähe und können diese manipulieren.
+- Besessenheit: Ebenso ist es möglich, das Geister Menschen oder Tiere besessen können, sei es direkt oder über verzauberte Gegenstände.
 
 ## Schwächen
-- Silber: Die größte Schwäche eines Werwolfs ist seine Anfälligkeit für Silber oder silberhaltige Gegenstände, da er mit einer Vielzahl von silbernen Gegenständen wie silbernen Pflöcken, Messern, Kugeln, Äxten, Brieföffnern, Handschellen, Löffeln, Gabeln usw. getötet oder verletzt werden kann, selbst der bloße Kontakt mit Silber verletzt ihn.
-- Geruchsablenkung: Werwölfe können nachweislich ihren Geruchssinn austricksen, so dass sich ein Feind an sie heranschleichen kann.
-- Enthauptung: Ohne ihren Kopf oder Gehirn können Werwölfe nicht überleben.
+- Bindung: Findet man den Gegenstand, an den der Geist gebunden ist und Verbrennt diesen wird die Totenseele in das Jenseits geschickt.
+- Salz: Normales Salz dienst als Barriere für einfache Geister, welche nicht durch Wände gehen können. Andere Geister können durch dieses verlangsamt und gestört werden.
+- Geistliche: Exorzismen und Rituale können Geister schwächen oder direkt verbannen.
+- Frieden: Kann man eine Totenseele besänftigen verschwindet sie ebenfalls ins Jenseits.
 
-## Bekannte Werwölfe
+## Bekannte Totenseelen
 
-- [Anna Siebert](../../helden/Anna%20Siebert/index.md)
-- [Graf Michael Großberg von Tölz](../../personen/Bad%20T%C3%B6lz/Graf_Michael_Grossberg_von_Toelz/index.md)
+- [Michele Frochot](../../personen/Paris/Michele%20Frochot/index.md)

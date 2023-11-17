@@ -37,3 +37,5 @@ In Dieser Zeit hatte er eine uneheliche Tochter mit einer temporären Köchin, w
 
 ## Fähigkeiten
 
+- Gelernter Butler
+- Gelernter Koch
