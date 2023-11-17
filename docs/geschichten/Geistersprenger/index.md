@@ -60,7 +60,7 @@ Der Geist war verbannt, nur konnte die Verbindung von Michele und Carl Großmann
 
 - Marina ist die einzige der französischen Sprache mächtig
 - "Bonnschur" ist leider nicht gut genug für Franzosen
-- FÜr Johnny vergeht kein Abenteuer ohne einen Wadenbiss
+- Für Johnny vergeht kein Abenteuer ohne einen Wadenbiss
 - Nur 2 von 9 Schüssen fanden ihr Ziel im Hausmädchen
 - Lieblingsunterhosen schützen vor Überraschungsbeschneidungen
 
