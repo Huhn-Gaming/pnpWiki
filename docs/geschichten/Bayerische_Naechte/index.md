@@ -4,7 +4,8 @@
 
 | Datum:                     |  02.10.2022                      |
 |    ---                     |---                               | 
-|**Spielleiter:**| **Julian** |**Teilnehmer:**                |                                                 **[Marina Adamantidi](../../helden/Marina_Adamantidi/index.md) \|             [Alexander Doppler](../../helden/Alexander_Doppler/index.md) \|               [Friedrich Pfeiffer](../../helden/Friedrich_Pfeiffer/index.md)**|            
+|**Spielleiter:**| **Julian** |
+**Teilnehmer:**                |                                                 **[Marina Adamantidi](../../helden/Marina_Adamantidi/index.md) \|             [Alexander Doppler](../../helden/Alexander_Doppler/index.md) \|               [Friedrich Pfeiffer](../../helden/Friedrich_Pfeiffer/index.md)**|            
 | **Veranstaltungsort:**        |            **Casa Dauner**    |
 | **Spielzeit:**                | **Freitag 11.12 - Sonntag 13.12.1880**            |
 | **Schauplätze:**                | **[Bayernhütte am Brauneck](./../../orte/Bayern/Bayernh%C3%BCtte%20am%20Brauneck/index.md) \| [Bad Tölz](../../orte/Bayern/Bad%20T%C3%B6lz/index.md)**            |

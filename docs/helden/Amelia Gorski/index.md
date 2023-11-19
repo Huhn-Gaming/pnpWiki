@@ -3,6 +3,7 @@
 
 | Name | Amelia Gorski |
 | ---| ---|
+| Spieler| Marco |
 | Geburtstag| 1837 |
 | Geburtsort |  |
 | Statur | kurvig |
@@ -13,6 +14,7 @@
 | Affliationen | Katholische Kirche, Orden der Barmherzigen Schwestern in Bayern |
 | Titel | Priorin des Orden der Barmherzigen Schwestern in Bayern |
 | Erster Auftritt | |
+| Abenteuer | |
 
 ---
 

@@ -5,7 +5,7 @@
 | Datum:                     |  04.11.2023                      |
 |    ---                     |---                               | 
 |**Spielleiter:**| **Julian** |
-|**Teilnehmer:**         |                                     [Anna Siebert](../../helden/Anna%20Siebert/index.md) \|             [Alexander Doppler](../../helden/Alexander_Doppler/index.md)  \| [Marina Adamantidi](../../helden/Marina_Adamantidi/index.md) \| [Friedrich Pfeiffer](../../helden/Friedrich_Pfeiffer/index.md) \| [Michael Reichelt](../../helden/Michael%20Reichelt/index.md)|            
+| **Teilnehmer:**         |   **[Anna Siebert](../../helden/Anna%20Siebert/index.md) \|[Alexander Doppler](../../helden/Alexander_Doppler/index.md)  \| [Marina Adamantidi](../../helden/Marina_Adamantidi/index.md) \| [Friedrich Pfeiffer](../../helden/Friedrich_Pfeiffer/index.md) \| [Michael Reichelt](../../helden/Michael%20Reichelt/index.md)**|          
 | **Veranstaltungsort:**        |            **Casa Dauner**    |
 | **Spielzeit:**                | **Samstag 13.08 - Dienstag 23.08.1881**            |
 | **Schauplätze:**                | **[Anwesen Frochot](../../orte/Frankreich/Paris/Anwesen%20Frochot/index.md)** \| **[Paris](../../orte/Frankreich/Paris/index.md)**            |
@@ -58,7 +58,7 @@ Der Geist war verbannt, nur konnte die Verbindung von Michele und Carl Großmann
 
 ## Trivia
 
-- Marina ist die einzige der französischen Sprache mächtig
+- Marina und Alexander sind als einzige der französischen Sprache mächtig
 - "Bonnschur" ist leider nicht gut genug für Franzosen
 - Für Johnny vergeht kein Abenteuer ohne einen Wadenbiss
 - Nur 2 von 9 Schüssen fanden ihr Ziel im Hausmädchen

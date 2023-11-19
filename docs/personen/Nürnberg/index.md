@@ -8,7 +8,7 @@
 
 ### Custodire Popolum
 
-- [Helene Berthold](../../N%C3%BCrnberg/Helene%20Berthold/index.md), Bibliothikarin
+- [Helene Berthold](../../personen/Nürnberg/Helene%20Berthold/index.md), Bibliothikarin
 
 - [Jaspal Ranshar](../N%C3%BCrnberg/Jaspal%20Ranshar/index.md), britischer Gewürzhändler immer auf Reise
 

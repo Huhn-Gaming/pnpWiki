@@ -4,6 +4,7 @@
 
 | Name | Anna "Diana Liebold" Siebert |
 | ---| ---|
+| Spieler | Dana |
 | Geburtstag| 7. April 1863 |
 | Geburtsort | Bad Tölz |
 | Statur | zierlich |
@@ -11,10 +12,12 @@
 | Religion | evangelisch |
 | Wohnort | Bad Tölz |
 | Beruf | Schülerin |
-| | [Custodire Popolum](../../gruppierungen/Custodire%20Populum/index.md)
-| Affliationen | |
+| Affliationen | [Custodire Popolum](../../gruppierungen/Custodire%20Populum/index.md) |
 | Titel | |
-| Erster Auftritt | [Bayerische Nächte](../../geschichten/Bayerische_Naechte/index.md) |
+| Erster Auftritt | [Gefallener Engel](../geschichten/Gefallener%20Engel/index.md) |
+| Abenteuer | [Gefallener Engel](../geschichten/Gefallener%20Engel/index.md) |
+| | [Alles hat ein Ende, nur die Wurst hat Zwei](../geschichten/Alles%20hat%20ein%20Ende%20nur%20die%20Wurst%20hat%20Zwei/)|
+| | [Die Geistersprenger](../geschichten/Geistersprenger/index.md)|
 
 ---
 
@@ -48,13 +51,13 @@ Während dieser Verwandlung war sie zutiefst verunsichert und unkontrolliert, ze
 In der Morgendämmerung verwandelte sie sich in ihre Menschengestalt zurück.
 Vollkommen verängstigt, gelang es ihr, nackt wie sie durch die Verwandlung war, rechtzeitig zum Anwesen zurück bekommen, bevor jemand etwas bemerken konnte.
 Sie behielt dieses Ereignis für sich und hoffte, dass sie das alles nur geträumt hätte. Schließlich waren ihre Albträume mit dem Grafen ähnlich real.
-Der einzige Unterschied war, dass sie in dieser Werwolfnacht nie geschlafen hat.
+Der einzige Unterschied war, dass sie in dieser [Werwolfsnacht](../../monster/werwolf/index.md) nie geschlafen hat.
 
 Als der Morgen fortgeschritten und wieder Leben im Anwesen eingekehrt war, machte sich eine Unruhe unter den Bewohnern breit.
 Die Nachricht, dass der Graf letzte Nacht gestorben ist, machte die Runde. Anna war schockiert und befürchtete, dass sie damit etwas zu tun haben könnte.
 Ihre Erinnerung an die Geschehnisse während ihrer waren lückenhaft, da sie sich nicht unter Kontrolle hatte und rein instinktiv handelte. Sie konnte sich sehr gut an Gerüche und Geräusche erinnern, nicht aber an Abläufe von Ereignissen und Bilder. Später erfuhr sie allerdings, dass der Graf in Werwolfgestalt von Zivilisten getötet wurde.
 
-Einige Wochen später wurde sie von der Custodire Populum aufgenommen, bei der sie die Leute kennen lernte, die den Grafen auf dem Gewissen hatten.
+Einige Wochen später wurde sie von der [Custodire Popolum](../../gruppierungen/Custodire%20Populum/index.md) aufgenommen, bei der sie die Leute auf einer [Sitzung](../../geschichten/Gefallener%20Engel/index.md) in [Nürnberg](../../orte/Bayern/Nürnberg/index.md) kennen lernte, die den Grafen auf dem Gewissen hatten.
 In der Hoffnung, sie könnte von den Leuten mehr über Werwölfe lernen, schloss sie sich der Gruppe an.
 Vielleicht fänden sie ja eine Möglichkeit, sie von der Lycanthrophie zu befreien.
 
@@ -62,7 +65,7 @@ Vielleicht fänden sie ja eine Möglichkeit, sie von der Lycanthrophie zu befrei
 
 ## Inventar und Begleiter
 
-
+- Beil
 
 ---
 

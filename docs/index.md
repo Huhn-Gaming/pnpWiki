@@ -1,6 +1,6 @@
 # Huhn Pen & Paper Wiki
 
-Diese Seite ist den Abenteuer des Huhn-Clans im "Bayerische Nächte"-Universum gewidet.
+Diese Seite ist den Abenteuer des Huhn-Clans im "Bayerische Nächte"-Universum gewidmet.
 
 Dies sind ihre Geschichten.
 
