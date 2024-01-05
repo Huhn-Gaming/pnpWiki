@@ -18,7 +18,6 @@
 | Religion | christlich orthodox |
 | Affliationen | [Custodire Popolum](../../gruppierungen/Custodire%20Populum/index.md)|
 | Titel | von Burger |
-| Erster Auftritt | [Bayerische Nächte](../../geschichten/Bayerische_Naechte/index.md) |
 | Abenteuer | [Bayerische Nächte](../../geschichten/Bayerische_Naechte/index.md) |
 | | [Alles hat ein Ende, nur die Wurst hat Zwei](../geschichten/Alles%20hat%20ein%20Ende%20nur%20die%20Wurst%20hat%20Zwei/)|
 | | [Die Geistersprenger](../geschichten/Geistersprenger/index.md)|

@@ -15,8 +15,8 @@
 | Religion | evangelisch |
 | Affliationen | [Custodire Popolum](../../gruppierungen/Custodire%20Populum/index.md)|
 | Titel | |
-| Erster Auftritt | [Alles hat ein Ende, nur die Wurst hat Zwei](../../geschichten/Alles%20hat%20ein%20Ende%20nur%20die%20Wurst%20hat%20Zwei/index.md) |
-| | [Alles hat ein Ende, nur die Wurst hat Zwei](../geschichten/Alles%20hat%20ein%20Ende%20nur%20die%20Wurst%20hat%20Zwei/)|
+| Abenteuer | [Alles hat ein Ende, nur die Wurst hat Zwei](../geschichten/Alles%20hat%20ein%20Ende%20nur%20die%20Wurst%20hat%20Zwei/)|
+|  | [Zwischen zwei Welten](../../geschichten/Zwischen%20zwei%20Welten/index.md) |
 
 
 ---

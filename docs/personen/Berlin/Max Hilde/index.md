@@ -5,7 +5,7 @@
 
 | Name | Max Georg Hilde |
 | ---| ---|
-| Geburtstag| 20.11.1842 |
+| Geburtstag| 20.11.1832 |
 | Geburtsort | Potsdam |
 | Statur | dünn und kahl |
 | Familie | Luise (Ehefrau, verstorben) |

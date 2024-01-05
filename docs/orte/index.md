@@ -4,14 +4,28 @@
 
 - [Bad Tölz](../orte/Bayern/Bad%20T%C3%B6lz/index.md)
 
-- [Bayernhütte am Brauneck](../orte/Bayern/Bayernh%C3%BCtte%20am%20Brauneck/index.md)
-
 - [Lenggries](../orte/Bayern/Lenggries/index.md)
 
 - [München](../orte/Bayern/M%C3%BCnchen/index.md)
 
 - [Nürnberg](../orte/Bayern/N%C3%BCrnberg/index.md)
 
+## [Gotha Koburg](../orte/Gotha%20Koburg/index.md)
+
+- [Eisenach](../orte/Gotha%20Koburg/Eisenach/index.md)
+
+- [Wartburg](../orte/Gotha%20Koburg/Wartburg/index.md)
+
 ## [Preußen](../orte/Preu%C3%9Fen/index.md)
 
 - [Berlin](../orte/Preu%C3%9Fen/Berlin/index.md)
+
+- [Eisleben](../orte/Preußen/Eisleben/index.md)
+
+- [Erfurt](../orte/Preußen/Erfurt/index.md)
+
+- [Potsdam](../orte/Preußen/Potsdam/index.md)
+
+## [Frankreich](../orte/Frankreich/index.md)
+
+- [Paris](../orte/Frankreich/Paris/index.md)

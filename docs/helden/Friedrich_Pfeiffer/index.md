@@ -17,7 +17,6 @@
 | Affliationen | kgl. bayerische Gendarmerie |
 | | [Custodire Popolum](../../gruppierungen/Custodire%20Populum/index.md) |  
 | Titel | |
-| Erster Auftritt | [Bayerische Nächte](../../geschichten/Bayerische_Naechte/index.md) |
 | Abenteuer | [Bayerische Nächte](../../geschichten/Bayerische_Naechte/index.md) |
 | | [Gefallener Engel](../geschichten/Gefallener%20Engel/index.md)|
 | | [Die Geistersprenger](../geschichten/Geistersprenger/index.md)|

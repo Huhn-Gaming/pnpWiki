@@ -6,8 +6,12 @@ Geheimbund zum Schutz der Menschheit und zum Verderben von schädlichen Wesen
 
 ### Vorsitzende
 
-- [Helene Berthold](../../personen/N%C3%BCrnberg/Helene%20Berthold/index.md), Kammervorsitzende Mittelfranken
+- [Erich Kreimler](../../personen/München/Erich%20Kreimler/index.md)†, ehemaliger Kammervorsitzender Bayern
+
+- [Helene Berthold](../../personen/N%C3%BCrnberg/Helene%20Berthold/index.md), Kammervorsitzende Bayern, ehemalige Kammervorsitzende Mittelfranken
+
 - [Max Hilde](../../personen/Berlin/Max%20Hilde/index.md), Kammervorsitzender Berlin
+
 
 ### Jäger
 
@@ -15,15 +19,15 @@ Geheimbund zum Schutz der Menschheit und zum Verderben von schädlichen Wesen
 
 - [Diana Liebold](../../helden/Anna%20Siebert/index.md)
 
+- [Friedrich Pfeiffer](../../helden/Friedrich_Pfeiffer/index.md)
+
+- [Friedrich Ritter von Burger](../../helden/Friedrich%20Ritter%20von%20Burger/index.md)
+
 - [Marina Adamantidi](../../helden/Marina_Adamantidi/index.md)
 
 - [Maximilian Lanzinger](../../helden/Maximilian%20Lanzinger/index.md) 
 
 - [Michael Reichelt](../../helden/Michael%20Reichelt/index.md)
-
-- [Friedrich Pfeiffer](../../helden/Friedrich_Pfeiffer/index.md)
-
-- [Friedrich Ritter von Burger](../../helden/Friedrich%20Ritter%20von%20Burger/index.md)
 
 - [Sepp Hinklduber](../../personen/N%C3%BCrnberg/Sepp%20Hinklduber/index.md), Landwirt und Ehrenmitglied nach Pension
 
