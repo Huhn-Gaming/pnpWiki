@@ -1,7 +1,9 @@
 # M1879 Reichsrevolver
 
-Schusswaffen, Duelieren
+Schusswaffen, Duellieren
 
-7W10 Schaden, 5 Schuss
+- 7W10 Schaden
+- 6 Schuss
+- Reichweite 50m
 
 [Auf Google](https://de.wikipedia.org/wiki/Reichsrevolver)
