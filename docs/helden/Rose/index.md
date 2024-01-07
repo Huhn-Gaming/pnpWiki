@@ -3,13 +3,13 @@
 ![](
  "")
 
-| Name | Rose |
+| Name | "Rose" |
 | ---| ---|
 | Spieler| Emily |
 | Geburtstag|  |
 | Geburtsort |  |
 | Statur | wendig muskulös |
-| Familie | Ehemann † |
+| Familie | Ehemann† |
 | Wohnort |  |
 | Beruf | Juwelendiebin |
 | Religion | atheistisch |
@@ -28,7 +28,7 @@
 
 ## Inventar und Begleiter
 
-- Baby Dragoon Revolver, 12 Schuss
+- [Baby Dragoon Revolver](../../Gegenstände/waffen/Baby%20Dragoon%20Revolver/index.md), 15 Schuss
 - 5 Dietriche
 - Schlagring
 - Glasschneider

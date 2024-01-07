@@ -47,11 +47,11 @@ Friedrich hat fast immer parat:
 
 - [M1879 Reichsrevolver](../../Gegenst%C3%A4nde/waffen/m1879%20Reichsrevolver/index.md) mit 20 Schuss und 5 Schuss Silber
 
--Offizierssäbel
+- Offizierssäbel
 
--Duellhandschuhe
+- Duellhandschuhe
 
--Fernrohr
+- Fernrohr
 
 
 Außerdem trainiert er hin und wieder mit dem Haushund Pudel [Johnny](../../tiere/Johnny/index.md)

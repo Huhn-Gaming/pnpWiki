@@ -5,9 +5,9 @@
 
 | Name | Arthur Bowsky |
 | ---| ---|
-| Geburtstag| 19.12.1819 |
+| Geburtstag| 19.10.1819 |
 | Geburtsort | Byerazino |
-| Statur | schlank und schön |
+| Statur | start und ehrlich |
 | Familie | Mutter |
 | Wohnort | [Potsdam](../../../orte/Preußen/Potsdam/index.md) |
 | Beruf | Jäger, Monsterjäger |

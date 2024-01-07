@@ -1,4 +1,4 @@
-# Spencer repeating rifle
+# M1865 Spencer repeating rifle
 
 Schusswaffen, Scharfschütze
 

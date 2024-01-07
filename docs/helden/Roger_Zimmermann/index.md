@@ -1,18 +1,18 @@
-# Rose
+# Roger Zimmermann
 
 ![](
  "")
 
-| Name | Rose |
+| Name | Roger Zimmermann |
 | ---| ---|
-| Spieler| Emily |
+| Spieler| Daniel |
 | Geburtstag|  |
 | Geburtsort |  |
-| Statur | wendig muskulös |
-| Familie | Ehemann † |
+| Statur | athletisch |
+| Familie | ledig |
 | Wohnort |  |
-| Beruf | Juwelendiebin |
-| Religion | atheistisch |
+| Beruf | Söldner |
+| Religion | Evangelisch-reformierte Kirche Schweiz |
 | Affliationen | [Custodire Popolum](../../gruppierungen/Custodire%20Populum/index.md)|
 | Titel | |
 | Abenteuer | [Zwischen zwei Welten](../../geschichten/Zwischen%20zwei%20Welten/index.md) |
@@ -28,16 +28,21 @@
 
 ## Inventar und Begleiter
 
-- Baby Dragoon Revolver, 12 Schuss
-- 5 Dietriche
-- Schlagring
-- Glasschneider
-- Angelschnur und Haken
+- [Mauser Modell 71](../waffen/Mauser%20Modell%2071/index.md), 10 Schuss
+- Feldstecher
+- Kletterausrüstung
+- Wildnissüberlebens Kit
+- Rucksack
+- Schweizer Sackmesser
 
 ---
 
 ## Fähigkeiten
 
-[Charakterbogen](../Rose/Rose.pdf)
+- Furchtlos
+- Leichter Schlaf
+- Empathielos (Fühlt kaum Gutes oder Schlechtes im Hinblick auf Andere)
+
+[Charakterbogen](../Roger_Zimmermann/Roger_Zimmermann.pdf)
 
 
