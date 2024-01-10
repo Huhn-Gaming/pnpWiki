@@ -8,3 +8,5 @@
 
 ## [Die Geistersprenger](../geschichten/Geistersprenger/index.md)
 
+## [Zwischen zwei Welten](../geschichten/Zwischen%20zwei%20Welten/index.md)
+
