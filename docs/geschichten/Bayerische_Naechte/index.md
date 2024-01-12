@@ -16,7 +16,7 @@
 
 ## Prolog
 
-Die Helden werden aus unterschiedlichen Gründen zur Einweihung und ersten Fahrt der ersten bayerischen Seilbahn in [Lenggries](../../orte/Lenggries/index.md) eingeladen. Der Veranstalter und Erbauer der Seilbahn ist [Graf Michael Großberg von Tölz](../../personen/Adel/Graf_Michael_Grossberg_von_Toelz/index.md). Marina und ihr Hund [Johny](../../tiere/Johnny/index.md) investierte die größte Summe, Alexander war maßgeblich am Bau und der Konstruktion beteiligt und Friedrich P. als staatlicher Ehrengast.
+Die Helden werden aus unterschiedlichen Gründen zur Einweihung und ersten Fahrt der ersten bayerischen Seilbahn in [Lenggries](../../orte/Lenggries/index.md) eingeladen. Der Veranstalter und Erbauer der Seilbahn ist [Graf Michael Großberg von Tölz](../../personen/Adel/Graf_Michael_Grossberg_von_Toelz/index.md). Marina und ihr Hund [Johnny](../../tiere/Johnny/index.md) investierte die größte Summe, Alexander war maßgeblich am Bau und der Konstruktion beteiligt und Friedrich P. als staatlicher Ehrengast.
 
 Die drei freuten sich auf ein Wochenende voller Skifahren und leckerem Essen. Doch Schneestürme und ein blutiger Unfall führten zu einer Nacht voller Horror und Gewalt.
 
