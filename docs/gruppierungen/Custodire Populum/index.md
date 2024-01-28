@@ -17,6 +17,8 @@ Geheimbund zum Schutz der Menschheit und zum Verderben von schädlichen Wesen
 
 - [Alexander Doppler](../../helden/Alexander_Doppler/index.md)
 
+- [Carlo Alighieri](../../personen/Erfurt/Carlo%20Alighieri/index.md)
+
 - [Diana Liebold](../../helden/Anna%20Siebert/index.md)
 
 - [Friedrich Pfeiffer](../../helden/Friedrich_Pfeiffer/index.md)

@@ -4,9 +4,12 @@
 
 ## Geister
 
+- [Totenseele](../monster/Geister/Totenseele/index.md)
+
 ## Humanoiden
 
 - [Gnom](../monster/gnom/index.md)
+- [Teufel](../monster/Teufel/index.md)
 - [Vampir](../monster/Vampir/)
 
 ## Tiergestalten
