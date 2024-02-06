@@ -6,7 +6,7 @@ Teufel sind eine Rasse an unterschiedlichsten Wesen, welche aus den tiefen der H
 
 ## Arten
 
-- [Hoher Teufel](/Hoher%20Teufel/index.md)
+- [Hoher Teufel](Hoher%20Teufel/index.md)
 - [Baatezu](../Teufel/Baatezu/index.md)
 
 ## Bekannte Teufel

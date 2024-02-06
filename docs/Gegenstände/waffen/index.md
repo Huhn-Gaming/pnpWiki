@@ -2,13 +2,13 @@
 
 ## Hiebwaffen
 
-- [Offizierssäbel](/Offizierssäbel/index.md)
+- [Offizierssäbel](Offizierssäbel/index.md)
 - [Schlagring](../waffen/Schlagring/index.md)
 
 ## Stichwaffen
 
-- [Dolch](/Dolch/index.md)
-- [Jagdmesser](/Jagdmesser/index.md)
+- [Dolch](Dolch/index.md)
+- [Jagdmesser](Jagdmesser/index.md)
 
 ## Schusswaffen
 
