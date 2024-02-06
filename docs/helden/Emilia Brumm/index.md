@@ -49,7 +49,7 @@ Zwei Jahre später wurde ein Nürnberger Zeitungsjournalist auf Emilia aufmerksa
 - Kräutertasche, Salben & Tinkturen 
 - Schnur & Netz 
 - Kleines aber sehr scharfes Messer 
-
+- [Betrunken mit Tränken](../../Gegenstände/Bücher/Betrunken%20mit%20Tränken/index.md)
 ---
 
 ## Fähigkeiten

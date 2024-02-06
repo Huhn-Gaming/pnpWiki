@@ -38,6 +38,10 @@ Während eines Festballs auf dem Würmsee lernte er Marina Adamantidi kennen und
 Die beiden verbringen ihre Freizeit mit dem Ausritt zum Internat ihrer Kinder, dem Schiffsbau und Segeln und den immer wiederkehrenden Bällen.
 1880 erfuhren die sie vom Bau der Seilbahn in [Lenggries](../../orte/Bayern/Lenggries/index.md) und investierten eine hohe Summe, sodass Marina zur Einweihung eingeladen wurde. Friedrich hingegen war aufgrund seines Dienstes verhindert und nahm nicht an dem ersten Abenteuer der Helden teil. 
 
+Nachdem seine Frau das Angebot bekam den [Custodire Popolum](../../gruppierungen/Custodire%20Populum/index.md) beizutreten bot sich Friedrich ebenso an. Aufgrund seiner Verbindungen in die Armee und dem Wissen rund um Waffen wurde er ebenfalls in [Nürnberg](../../orte/Bayern/Nürnberg/index.md) in den Kreis aufgenommen.
+
+In [Berlin](../../orte/Preußen/Berlin/index.md) half er die Mordfälle rund um den [Vampir](../../monster/Vampir/index.md) [Carl Großmann](../../personen/Berlin/Carl%20Gro%C3%9Fmann/index.md) aufzudecken und brachte diesen mit den anderen Helden uzr Strecke. Nachdem Ausbruch an Zorn, Hunger, Gefühlen udn Gewalt von [Anna Siebert](../../helden/Anna%20Siebert/index.md) fand er sie bald wieder in den Gassen von Berlin und brachte sie zurück nach [München](../../orte/Bayern/München/index.md).
+
 
 ---
 
@@ -47,7 +51,7 @@ Friedrich hat fast immer parat:
 
 - [M1879 Reichsrevolver](../../Gegenst%C3%A4nde/waffen/m1879%20Reichsrevolver/index.md) mit 20 Schuss und 5 Schuss Silber
 
-- Offizierssäbel
+- [Offizierssäbel](../../Gegenstände/waffen/Offizierssäbel/index.md)
 
 - Duellhandschuhe
 

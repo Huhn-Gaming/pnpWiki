@@ -114,7 +114,10 @@ Helene Berthold ersetzt Erich Kreimler als den Kammervorsitzenden von Bayern. De
 
 ## Inventar
 
-- Leider nichts gefunden oder behalten
+Roger:
+
+- 1x [M1879 Reichsrevolver](../../Gegenstände/waffen/m1879%20Reichsrevolver/index.md) von einem Kultisten im Südturm
+- 1x [Zwillingsflinte](../../Gegenstände/waffen/Zwillingsflinte/index.md) von einem Kultisten im Lutherzimmer
 
 ---
 

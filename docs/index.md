@@ -6,6 +6,8 @@ Dies sind ihre Geschichten.
 
 ## [Geschichten](geschichten/index.md)
 
+## [Gegenstände](/Gegenstände/index.md)
+
 ## [Gruppierungen](gruppierungen/index.md)
 
 ## [Helden](helden/index.md)

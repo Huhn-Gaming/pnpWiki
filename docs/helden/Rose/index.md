@@ -30,7 +30,7 @@
 
 - [Baby Dragoon Revolver](../../Gegenstände/waffen/Baby%20Dragoon%20Revolver/index.md), 15 Schuss
 - 5 Dietriche
-- Schlagring
+- [Schlagring](../../Gegenstände/waffen/Schlagring/index.md)
 - Glasschneider
 - Angelschnur und Haken
 
