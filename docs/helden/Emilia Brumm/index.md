@@ -32,7 +32,6 @@ So erging es auch Friederike, welche im Alter von 13 Jahren in die Familie Kropf
 Im Besitz von Erlangens Hofapotheke zum schwarzen Mohren, waren die Kropfgans eine angesehene
 Familie und auch Friederike wurde gut behandelt. Sie durfte oft in der Apotheke aushelfen und war schon
 bald eingebunden in den Familienbetrieb.
-
 Friederike war 22 Jahre alt, als der 26-jährige August nach Erlangen kam. Er wurde als bekannter
 Wanderheiler nach Erlangen gerufen, weil die Frau des Landrates von Erlangen-Höchstadt schwer an einer
 Pocken-Infektion erkrankt war. Da diese Infektion als hochansteckend galt, mieden die Menschen die
@@ -52,7 +51,6 @@ Heilmethoden zu erkunden. Nach gründlichen Untersuchungen stießen sie auf eine
 die dem Körper über die Pocken die Lebensenergie entzog. Letztendlich gelang es den beiden, ein
 magisches Heilmittel zu entwickeln, das nicht nur diese finstere Energie im Immunsystem bekämpfte,
 sondern auch eine Salbe, die die Pocken zum Versiegen brachte.
-
 Nun, da die Tat vollbracht war, sollte August sich wieder auf den Weg machen und seine Arbeit als
 Wanderheiler fortsetzen. Er war in einer Gaststube im Wald vor Forchheim angekommen, als ihn selbst
 eine Krankheit heimzusuchen schien. Zum Glück waren es keine Pocken, nein – er wusste selbst nicht
@@ -87,7 +85,6 @@ Natur. Das Flüstern der Waldgeister in den Bäumen begrüßte sie auf mystische
 den Schatten der Hänge dunkle Mächte lauerten, die gelegentlich eine tierähnliche Gestalt annahmen.
 Schon bald lernte sie, die Warnsignale der Natur zu erkennen, wie etwa das Krächzen einer Krähe, die sie
 zu beschützen schien.
-
 Zur gleichen Zeit entstanden Gerüchte über ihre wundersamen Heilkräfte und ihre Lebensart in der Natur.
 Einige studierte Ärzte und Apotheker fühlten sich von der Wanderheilerin bedroht, weil sie deren
 wissenschaftliche Methodiken in den Schatten stellte. In einer geheimen Sitzung machten die Gelehrten
@@ -110,6 +107,7 @@ sich Emilia in die Städte und Dörfer. Sie fand immer wieder neue Schlupflöche
 ihr Wissen über städtische Bausysteme und damit ihren Sinn für Orientierung formten. Darüber hinaus
 legte sie sich einen Tarnumhang und leises Schuhwerk zu, um sowohl im Wald als auch in der Stadt noch
 unauffälliger fortzuschreiten.
+
 Im Alter von 23 Jahren kehrte Emilia schließlich nach Erlangen zurück. Sie vermisste ihre Familie und
 sehnte sich nach ihrer Heimatstadt. Bei ihrer Ankunft wurde Emilia von ihrer Familie in die Arme
 geschlossen und wieder zu sich aufgenommen. Zunächst gab es ein paar wenige Protestaufrufe und
@@ -118,19 +116,19 @@ jedoch, begrüßte die Anwesenheit der jungen Heilerin. Auch im Jahre 1878 gab e
 und noch nicht alle Heilmethoden waren wissenschaftlich erforscht. Emilia erhielt den Rückhalt von ihrem
 Vater und Bruder und durfte im elterlichen Laden Kräuter verkaufen. Theodor würde bald sein Studium
 beenden, und es gab bereits Pläne für eine familiäre Apotheke.
-
 Zwei Jahre später wurde ein Nürnberger Zeitungsjournalist auf Emilia aufmerksam, als sich herumsprach,
 dass sie eine neuartige Tinktur zur Behandlung von Ödemen an den Gelenken entwickelt hatte. Er wollte
 unbedingt mit ihr sprechen und vereinbarte ein Treffen. Sie verriet ihm zwar nicht die geheime Rezeptur,
 aber schilderte ihm, wie es dazu kam, dass sie über so besondere Kenntnisse verfügte - dass sie einige
 Jahre in der Wildnis verbracht hatte und als Wanderheilerin von Dorf zu Dorf gereist ist. Bald wurde ein
 Bericht über Emilias Erfindung und ihre Geschichte veröffentlicht, der sich in den mittelfränkischen
-Lokalzeitungen verbreitete und auch den Mitgliedern der [Custodire Popolum](../../gruppierungen/Custodire%20Populum/index.md) in die Hände fiel. Auch jene hatten bereits von einer ominösen Wanderheilerin gehört, kannten aber bislang weder ihren Namen noch
+Lokalzeitungen verbreitete und auch den Mitgliedern der [Custodire Popolum](../../gruppierungen/Custodire%20Populum/index.md) in die Hände fiel. Auch jene
+hatten bereits von einer ominösen Wanderheilerin gehört, kannten aber bislang weder ihren Namen noch
 ihr Gesicht. Kurzerhand schickten sie zwei Agenten, um Emilia auf ihre Eignung für den Geheimbund zu
 prüfen. Als diese in Erlangen eintrafen, dauerte es nicht lange, bis Emilia ihnen auf die Schliche kam. Sie
 ließ sich zunächst nichts anmerken, verschwand dann aber flink in die nächste Gasse. Als die Verfolger es
 ihr gleichtaten, stolperten sie über ein aufgespanntes Seil und sahen die Stiefel der jungen Frau vor ihren
-Nasen. Seit diesem Tag ist Emilia Mitglied des Geheimbundes Custodire Populum. 
+Nasen. Seit diesem Tag ist Emilia Mitglied des Geheimbundes Custodire Populum.
 
 ---
 
