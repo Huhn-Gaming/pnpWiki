@@ -60,6 +60,10 @@ Einige Wochen später wurde sie von der [Custodire Popolum](../../gruppierungen/
 In der Hoffnung, sie könnte von den Leuten mehr über Werwölfe lernen, schloss sie sich der Gruppe an.
 Vielleicht fänden sie ja eine Möglichkeit, sie von der Lycanthrophie zu befreien.
 
+In [Berlin](../../orte/Preußen/Berlin/index.md) half sie die Mordfälle rund um den [Vampir](../../monster/Vampir/index.md) [Carl Großmann](../../personen/Berlin/Carl%20Gro%C3%9Fmann/index.md) aufzudecken. Dort von diesem gefangen zwang er Anna unwissentlich in ihre Werwolfsform, woraufhin sie diesen brutal und ohne Kontrolle zerfleischte. Ohne ihre Verwandlung hätte die Gruppe schlechte Chancen gehabt, doch brachte der Sieg Anna wieder viele Zweifel. Konnte sie jemals ihre böse Form bezwingen?
+
+1881 wurde sie zusammen mit anderen Helden von Marina nach [Paris](../../orte/Frankreich/Paris/index.md) eingeladen, um dort an der ersten internationalen Elektronikmesse teilzunehmen. Doch das alles stellte sich als Falle der [Totenseele](../../monster/Geister/Totenseele/index.md) von Michele und dessen Bedienstete [Laurette Gondié](../../personen/Paris/Laurette%20Gondié/index.md) heraus. Geweckt von Träumen brachte sie die Helden auf die Spur des Spuks und des Sieges. Über den Verlauf der Nacht konnte sich die Gruppe nur mit letzten Kräften in den rettenden Garten schleppen und dort den verheerenden Hausbrand ausharren. 
+
 ---
 
 ## Inventar und Begleiter
