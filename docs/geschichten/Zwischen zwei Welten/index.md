@@ -20,7 +20,7 @@
 
 Zur Feier der letzten Erfolge und zur Krönung der Lebensarbeit eines renommierten und ausgezeichneten Jägers werden die Helden auf die [Wartburg](../../orte/Gotha%20Koburg/Wartburg/index.md) nach [Gotha Koburg](../../orte/Gotha%20Koburg/index.md) eingeladen.
 
- Da der Moment passend ist sollen ebenso neue Rekruten in die Reihen der [Custudire Populum](../../gruppierungen/Custodire%20Populum/index.md) aufgenommen werden.
+ Da der Moment passend ist sollen ebenso neue Rekruten in die Reihen der [Custodire Populum](../../gruppierungen/Custodire%20Populum/index.md) aufgenommen werden.
 
  Doch die ruhigen Festivitäten werden durch die Rückkehr eines alten Feindes erheblich gestört. Können die Helden es schaffen diese mächtige Gruppierung zu stoppen und die Custodire zu retten?
 
