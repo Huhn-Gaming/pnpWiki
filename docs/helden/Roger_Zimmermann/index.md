@@ -28,7 +28,7 @@
 
 ## Inventar und Begleiter
 
-- [Mauser Modell 71](../waffen/Mauser%20Modell%2071/index.md), 10 Schuss
+- [Mauser Modell 71](../../Gegenstände/waffen/Mauser%20Modell%2071/index.md), 10 Schuss
 - Feldstecher
 - Kletterausrüstung
 - Wildnissüberlebens Kit

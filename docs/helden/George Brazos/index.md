@@ -28,8 +28,8 @@
 
 ## Inventar und Begleiter
 
-- 2 x [Colt Army Model 1860](../waffen/Colt%20Army%20Model%201860/index.md)
-- [M1865 Spencer repeating rifle](../waffen/Spencer%20repeating%20rifle/index.md)
+- 2 x [Colt Army Model 1860](../../Gegenstände/waffen/Colt%20Army%20Model%201860/index.md)
+- [M1865 Spencer repeating rifle](../../Gegenstände/waffen/Spencer%20repeating%20rifle/index.md)
 - Gürtelmesser
 - Seil (3 Meter)
 - Fallenstellerausrüstung (Feuerzeug, Faden, Stöcke, Feuerstahl)
