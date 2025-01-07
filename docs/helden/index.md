@@ -10,6 +10,8 @@
 
 ## [Friedrich Pfeiffer](../helden/Friedrich_Pfeiffer/index.md)
 
+## [Jules-Louis Poirot](../helden/Jules-Louis%20Poirot/index.md)
+
 ## [Marina Adamantidi](../helden/Marina_Adamantidi/index.md)
 
 ## [Maximilian Lanzinger](../helden/Maximilian%20Lanzinger/index.md)

@@ -20,6 +20,7 @@
 | Abenteuer | [Bayerische Nächte](../../geschichten/Bayerische_Naechte/index.md) |
 | | [Gefallener Engel](../geschichten/Gefallener%20Engel/index.md)|
 | | [Die Geistersprenger](../geschichten/Geistersprenger/index.md)|
+| | [Paradoxon](../../geschichten/Paradoxon/index.md) |
 
 
 ---

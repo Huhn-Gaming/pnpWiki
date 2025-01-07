@@ -16,7 +16,9 @@
 | Affliationen | [Custodire Popolum](../../gruppierungen/Custodire%20Populum/index.md)|
 | Titel | |
 | Abenteuer | [Alles hat ein Ende, nur die Wurst hat Zwei](../geschichten/Alles%20hat%20ein%20Ende%20nur%20die%20Wurst%20hat%20Zwei/)|
-|  | [Zwischen zwei Welten](../../geschichten/Zwischen%20zwei%20Welten/index.md) |
+| | [Zwischen zwei Welten](../../geschichten/Zwischen%20zwei%20Welten/index.md) |
+| | [Paradoxon](../../geschichten/Paradoxon/index.md) |
+| | [Kō kaijō no satsujin](../../geschichten/Kō%20kaijō%20no%20satsujin/index.md) |
 
 
 ---
@@ -46,7 +48,7 @@ Um dem Ursprung seiner Uhr auf den Grund zu kommen studierte Maximilian viele B�
 - Dolch 
 
 - Notizbuch eigener Vorfahren [nicht entzifferbar]
-- Antike Sekundenuhr [aufziehbar, eher mystisch]
+- [Antike Sekundenuhr](../../Gegenstände/Okkultes/Uhr%20der%20Zeit/index.md) 
 
 ---
 
