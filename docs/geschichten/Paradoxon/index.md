@@ -75,6 +75,12 @@ Doch nun ist er von der Uhr zur Hölle verdammt, für so viele Jahre.
 
 Die Helden und die Mitglieder der Custodire sind überwältigt, den so einen Fall hatte noch niemand gesehen. So viele zukünftige Wahrheiten, so viele Wege dorthin die alle an einem Punkt zusammenkommen werden. Die Uhr wird am Freitag den 13.7.1883 zum ersten Mal benutzt werden und in die falschen Hände geraten.
 
+In den darauf folgenden Tagen stellen Maximilian und Alexander unterschiedlichste Expiremente an. Diese hielten sie in mehreren Laborberichten fest:
+- Laborbericht Nr.1
+- Laborbericht Nr.2
+- [Laborbericht Nr.3](../Paradoxon/Laborbericht%20Nr03.pdf)
+- [Laborbericht Nr.4](../Paradoxon/Laborbericht%20Nr04.pdf)
+
 ---
 
 ## Inventar
