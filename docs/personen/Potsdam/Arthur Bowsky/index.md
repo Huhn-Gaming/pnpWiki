@@ -7,7 +7,7 @@
 | ---| ---|
 | Geburtstag| 19.10.1819 |
 | Geburtsort | Byerazino |
-| Statur | start und ehrlich |
+| Statur | stark und ehrlich |
 | Familie | Mutter |
 | Wohnort | [Potsdam](../../../orte/Preußen/Potsdam/index.md) |
 | Beruf | Jäger, Monsterjäger |

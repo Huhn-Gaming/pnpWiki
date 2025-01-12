@@ -2,6 +2,8 @@
 
 ## Dämonen
 
+- [Gestaltwandler](../monster/Gestaltwandler/index.md)
+
 ## Geister
 
 - [Totenseele](../monster/Geister/Totenseele/index.md)
