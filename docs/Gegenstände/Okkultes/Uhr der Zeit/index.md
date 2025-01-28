@@ -11,3 +11,5 @@ Die Japaner haben einen Weg gefunden die Höhle in den Geist von Menschen darzus
 Durch die Zeitreise von [Hans Landgraf](../../../personen/Köln/Hans%20Landgraf/index.md) gibt es nun eine funktionierende Uhr in den Händen der [Custodire Popolum](../../gruppierungen/Custodire%20Populum/index.md) und eine nicht funktionierende im Besitzt von [Maximilian Lanzinger](../../../helden/Maximilian%20Lanzinger/index.md).
 Auf der Uhr eine dämonische Rune eingearbeitet, diese ist der Schlüssel zu einem Pakt mit einem Teufel. Das ist der große Unterschied zu der jetzigen Uhr. Diese dämonische Rune ist in dem Buch beschrieben, welches [Janette Landrgaf](../../../personen/München/Janette%20Landgraf/index.md) in der Bibliothek entdeckt hat. 
 Zusammen werden Maximilian und Janette die Uhr entschlüsseln und so Zeitreisen möglich machen.
+
+Die Uhr wird am Freitag den 13.7.1883 an einem bestimmten Ort auftauchen und in die falschen Hände geraten.

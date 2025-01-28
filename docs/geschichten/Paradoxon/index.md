@@ -9,7 +9,7 @@
 | **Veranstaltungsort:**        | **Online** | 
 | **Spielzeit:**                | **Donnerstag 03.04.1882**            |
 | **Schauplätze:**                | **[München](../../orte/Bayern/München/index.md)**            |
-| | [Café Luitpold](../../orte/Bayern/München/Cafe%20Luitpold/index.md) |
+| | **[Café Luitpold](../../orte/Bayern/München/Cafe%20Luitpold/index.md)** |
 
 
 
@@ -73,7 +73,7 @@ Und laut Hans an einem unausweichlichen Krieg, den gerade seine Schwester [Marle
 Und was er alles mit der Uhr angestellt hat, dass er sie nicht zerstören konnte und das der Mord an seinen eigenen Eltern nichts geändert hat. Und so viel mehr was er gemacht hatte, und am liebsten wieder vergessen möchte.
 Doch nun ist er von der Uhr zur Hölle verdammt, für so viele Jahre.
 
-Die Helden und die Mitglieder der Custodire sind überwältigt, den so einen Fall hatte noch niemand gesehen. So viele zukünftige Wahrheiten, so viele Wege dorthin die alle an einem Punkt zusammenkommen werden. Die Uhr wird am Freitag den 13.7.1883 zum ersten Mal benutzt werden und in die falschen Hände geraten.
+Die Helden und die Mitglieder der Custodire sind überwältigt, den so einen Fall hatte noch niemand gesehen. So viele zukünftige Wahrheiten, so viele Wege dorthin die alle an einem Punkt zusammenkommen werden. Die Uhr wird am Freitag den 13.7.1883 an einem bestimmten Ort auftauchen und in die falschen Hände geraten.
 
 In den darauf folgenden Tagen stellen Maximilian und Alexander unterschiedlichste Expiremente an. Diese hielten sie in mehreren Laborberichten fest:
 - Laborbericht Nr.1
@@ -96,6 +96,7 @@ In den darauf folgenden Tagen stellen Maximilian und Alexander unterschiedlichst
 - Marina hinterlässt einen guten Montaslohn als Trinkgeld
 - Friedrich verliert das Versteckspiel gegen zwei freche Kinder
 - Maximilians Mantel hält kaum ein Abenteuer stand
+- Marina kehrte bald wieder in das Modegeschäft zurück
 
 
 

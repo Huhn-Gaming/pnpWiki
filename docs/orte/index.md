@@ -29,3 +29,5 @@
 ## [Frankreich](../orte/Frankreich/index.md)
 
 - [Paris](../orte/Frankreich/Paris/index.md)
+
+## Die [Ostfriesland](../orte/Ostfriesland/index.md), ein Kreuzfahrtschiff auf der Reise zwischen Deutschland un Japan

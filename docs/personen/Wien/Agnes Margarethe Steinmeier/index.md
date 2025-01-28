@@ -21,7 +21,9 @@
 
 ## Biographie
 
-Agnes wurde als erste Tochter der Fürsten Maximilian und Katherina von Lichtenstein geboren und füllt diese Rolle der ersten Nachfahrin komplett aus.
+Agnes wurde als erste Tochter der Fürsten Maximilian und Katherina von Lichtenstein geboren und füllt diese Rolle der ersten Nachfahrin komplett aus. Während ihrer Jugend wurde sie als Diplomatin und Erbin der Fürsten aufgezogen. Dabei reiste sie durch alle Länder angrezent an Österreich-Ungarn und lernte viele Sprachen und Gebräuche.
+
+Nun sollte sie für Österreich eine Beziehung nach Japoan herstellen und bordete das Schiff [Ostfriesland](../../../orte/Ostfriesland/index.md). Dort konnte sie sich gerade so aus der Affäre rund um den Mord an [Mori Arinori](../../Tokyo/Mori%20Arinori/index.md) entziehen, doch die Helden haben immer noch ihr Auge auf sie geworfen. Was will sie wirklich?
 
 ---
 
@@ -35,3 +37,7 @@ Agnes wurde als erste Tochter der Fürsten Maximilian und Katherina von Lichtens
 
 - Diplomatie
 - Essen
+- Englisch
+- Tschechisch
+- Rumänisch
+- Italienisch
