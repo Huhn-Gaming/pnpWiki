@@ -1,9 +1,9 @@
-# Gunbald Karlos
+# Dr. Kurt Grämer
 
 ![Kapitänsportrait für Gunbald](../Gunbald%20Karlos/Gunbald%20Karlos.png  "Kapitänsportrait für Gunbald")
 
 
-| Name | Gunbald Karlos |
+| Name | Dr. Kurt Grämer |
 | ---| ---|
 | Geburtstag| 26.07.1849 |
 | Geburtsort | Bremen ||
@@ -13,7 +13,7 @@
 | Beruf |Kapitän |
 | Religion | katholisch |
 | Affliationen | Die [Ostfriesland](../../../orte/Ostfriesland/index.md) |
-| Titel |  |
+| Titel | Doktor der Medizin |
 | Erster Auftritt | [公海上での殺人事件](../../../geschichten/Kō%20kaijō%20no%20satsujin/index.md) |
 
 ---
