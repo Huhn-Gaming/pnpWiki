@@ -1,0 +1,70 @@
+Worte bilden sich aus Silben, welche beschreiben um was es im Prinzip geht und die Endung bestimmt ob Nomen, Verb oder Adjektiv.
+Satzbau wie im Deutschen. Insgesamt 49 Silben, 26 davon einzigartig, welche nicht für Wörter benutzt werden. 
+Keine Deklination von Nomen.
+
+Endungen von Wörtern:
+Nomen:
+    Männlich: Dinge, welche durch Sinne wahrgenommen werden können
+        -Esch (Einzahl)
+        -Osch (Mehrzahl)
+    Weiblich: Dinge, die gefühlt werden oder erdacht werden
+        -Kor (Einzahl)
+        -Kar (Mehrzahl)
+Verben:
+    Präsens:
+    1. Person singular
+        -Ay
+    2.+3. Person singular männlich
+        -Erk
+    2.+3. Person singular weiblich
+        -Mirr
+    1. Person plural
+        -Fey
+    2+.3. Person plural männlich
+        -Risch
+    2+.3. Person plural weiblich
+        -Krok
+
+    Perfekt:
+        -Kat
+
+    Futur:
+        -Ri
+
+Adjektive:
+        -Taa
+    Komperativ:
+        -Tat
+    Superlativ:
+        -Ref
+
+Pronomen stehen für sich selbst. Possesivpronomen werden hinter den Besitz gesetzt.
+Pronomen:
+    Ich:    Ikk
+    Du:     Rof
+    Er:     Asch
+    Sie:    Kir
+    Wir:    Ikee
+    Ihr:    Rfee
+    Sie (männlich): Schasch
+    Sie (weiblich): Krikr
+    Sie (gemischt): Kscho
+
+Besitz:
+    Besitzt:        Tra
+    Wird besitzt:   Oyf
+
+Benutzte Silben:
+Esch   Kor   Ay    Mirr   Risch   Kat   Taa   Ref   Rof    Kir    Rfee      Krikr  Tra
+Osch   Kar   Erk   Fey    Krok    Ri    Tat   Ikk   Asch   Ikee   Schasch   Kscho  Oyf
+Es bleiben 23 Silben für die Beschreibung des Worts:
+Mi  Va  Lo  Ke  Ru  Th  Kv  Fr  Ht  To  Iv  Ley  Oor  Raa  Vir  Fuf  Kaf  Kfo  Ratt  Schi  Veek  Vria  Tsch  
+
+Das Zählsystem ist ein Eptasystem von 1-7. Eine 0 wird als kein Laut angegeben ''
+1
+2
+3
+4
+5
+6
+7
