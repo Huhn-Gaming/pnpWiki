@@ -6,7 +6,7 @@
 | Name | Gunbald Karlos |
 | ---| ---|
 | Geburtstag| 26.07.1849 |
-| Geburtsort | Bremen ||
+| Geburtsort | Bremen |
 | Statur | groß und grau |
 | Familie |  |
 | Wohnort | Hamburg |

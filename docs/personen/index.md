@@ -18,6 +18,9 @@
 ## [Köln](../personen/Köln/index.md)
 
 
+## [London](../personen/London/index.md)
+
+
 ## [München](../personen/M%C3%BCnchen/index.md)
 
 
@@ -29,3 +32,8 @@
 
 ## [Potsdam](../personen/Potsdam/index.md)
 
+
+## [Tokyo](../personen/Tokyo/index.md)
+
+
+## [Wien](../personen/Wien/index.md)

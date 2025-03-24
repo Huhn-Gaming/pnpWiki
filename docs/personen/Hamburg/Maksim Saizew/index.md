@@ -5,13 +5,13 @@
 
 | Name | Maksim Saizew |
 | ---| ---|
-| Geburtstag| 26.07.1849 |
-| Geburtsort | Bremen ||
-| Statur | groß und grau |
+| Geburtstag| 12.05.1852 |
+| Geburtsort | Lytin |
+| Statur | riesig und muskulös |
 | Familie |  |
 | Wohnort | Hamburg |
-| Beruf |Kapitän |
-| Religion | katholisch |
+| Beruf | Leibwächter |
+| Religion | christlich orthhodox |
 | Affliationen | Die [Ostfriesland](../../../orte/Ostfriesland/index.md) |
 | Titel |  |
 | Erster Auftritt | [公海上での殺人事件](../../../geschichten/Kō%20kaijō%20no%20satsujin/index.md) |
@@ -20,11 +20,11 @@
 
 ## Biographie
 
-Gunbald wuchs auf den Redereischiffen seines Großvaters auf und verfluchte schnell jede Landratte und atmete nur noch salzige Luft. Als charismatischer Anführer suchte er mit einer Gruppe von Jungen die Hafen und Stege rund um BRemen heim. Auf Drängen seines Vaters wurde er bald Ofizier in der Marine und füllte diese Rolle sehr aus. 
+Maksim wurde als siebtes Kind einer ukrainischen Großfamilie geboren. In einem Dorf wurde er von Kindesbeinen an die harte Arbeit des lands gewöhnt und wuchs, dank der guten und mehr als ausreichenden Ernährung, so groß und stark heran. Bald fand er mit 14 Arbeit asl Holzfäller und später in der Armee der Ukraine als Infanterisst tätig. Dort erhielt er durch vorbildliche Pflichterfüllung mehrere Orden und wurde ehrenhaft entlassen. 
 
-Mit der Verpflichtungszeit zu Ende entschied sich Gunbald auf einem Schiff zu bleiben und wurde von der "Luxury and Style" Gruppe für Kreuzfahrten angestellt. Dort wurde er als Kapitän der [Ostfriesland](../../../orte/Ostfriesland/index.md) bestimmt und machte mit dieser bisher 5 Überfahrten. 
+Direkt nach seiner Entlassung ging Maksim nach Königsberg und von da aus nach Hamburg, da ihn in der Ukraine nichts mehr hielt. Er hatte dort nur Bekannte aus dem Militär und seine Familia hatte sich in alle Richtungen verteilt. Auf der Suche nach Arbeit lernte er langsam Hochdeutsch und heuerte zu erst als Kohleschipper auf der [Ostfriesland](../../../orte/Ostfriesland/index.md) an, bevor er vom [Kapitätn](../Gunbald%20Karlos/index.md) selbst als wertvoll für die Bewachung angesehen wurde. Dort arbeitete er sich schnell nach oben und wurde Leibwächter der Luxusklasse.
 
-Von der Besatzung respektiert spielte er auch seine Autorität in der jetzigen Überfahrt nach Tokyo aus als er, den Erkentnissen des Detektivs [Jules-Louis Poirot](../../../helden/Jules-Louis%20Poirot/index.md) folgend, das Schiff unter "Quarantäne" nahm. So arbeitet er mti den Helden zusammen um den Mörder des Botschafters [Mori Arinori](../../../personen/Tokyo/Mori%20Arinori/index.md) zu finden.
+Hier traf er auf die Helden und bewachte diese, leider nciht erfolgreich, da [Sir Charles](../../London/Sir%20Charles%20of%20West%20Harborough%20and%20Suttings/index.md) den [japanischen Botschafter](../../Tokyo/Mori%20Arinori/index.md) und zwei Bedienstete, darunter seinen Freund Heinrich, getötet hatte. Er fiel in eine leichte Depression und durfte von nun an die Helden direkt bewachen. Dabei geriet er mit in den Kampf gegen den [Gestaltwandler](../../../monster/Gestaltwandler/index.md) Sir Charles und erlebte ein Monster mit eigenen Augen. Verpicht darauf von dieser Erfahrung zu berichten will er direkt zum Kapitän und alles erzählen, doch die Helden werden etwas anderes im Sinn haben.
 
 ---
 

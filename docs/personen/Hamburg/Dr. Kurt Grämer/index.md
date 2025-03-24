@@ -1,42 +1,42 @@
 # Dr. Kurt Grämer
 
-![Kapitänsportrait für Gunbald](../Gunbald%20Karlos/Gunbald%20Karlos.png  "Kapitänsportrait für Gunbald")
+![Kurt nach einem langen Tag](../Dr.%20Kurt%20Grämer/Kurt%20Graemer.jpg "Kurt nach einem langen Tag")
 
 
-| Name | Dr. Kurt Grämer |
+| Name | Kurt Grämer |
 | ---| ---|
-| Geburtstag| 26.07.1849 |
-| Geburtsort | Bremen ||
-| Statur | groß und grau |
-| Familie |  |
+| Geburtstag| 02.11.1821 |
+| Geburtsort | Niederstetten |
+| Statur | gebrechlich und grau |
+| Familie | Ehefrau † |
 | Wohnort | Hamburg |
-| Beruf |Kapitän |
+| Beruf | Mediziner |
 | Religion | katholisch |
 | Affliationen | Die [Ostfriesland](../../../orte/Ostfriesland/index.md) |
 | Titel | Doktor der Medizin |
-| Erster Auftritt | [公海上での殺人事件](../../../geschichten/Kō%20kaijō%20no%20satsujin/index.md) |
+| Erster Auftritt | [Unter uns](../../../geschichten/Unter%20uns/index.md) |
 
 ---
 
 ## Biographie
 
-Gunbald wuchs auf den Redereischiffen seines Großvaters auf und verfluchte schnell jede Landratte und atmete nur noch salzige Luft. Als charismatischer Anführer suchte er mit einer Gruppe von Jungen die Hafen und Stege rund um BRemen heim. Auf Drängen seines Vaters wurde er bald Ofizier in der Marine und füllte diese Rolle sehr aus. 
+Kurt wurde als dritter Sohn eines Doktors geboren und wurde aufgrund seines Talents für das Lernen und der Fingerfertigkeit letztendlich als Nachfolger ausgewählt. Zuerst war er wenig bemüht sich der herausforderung zu stellen, aber das Ansehen, welches er vor Allem von seinen Brüder erhielt, lies ihn weiter aufstreben. Seine Weitsichtigkeit zwang ihn eine dicke Brille zu tragen, welche sich über die zeit wenig verbessert hat.
 
-Mit der Verpflichtungszeit zu Ende entschied sich Gunbald auf einem Schiff zu bleiben und wurde von der "Luxury and Style" Gruppe für Kreuzfahrten angestellt. Dort wurde er als Kapitän der [Ostfriesland](../../../orte/Ostfriesland/index.md) bestimmt und machte mit dieser bisher 5 Überfahrten. 
+Im mittleren Alter fand er eine Ehefrau, Luisa, auf seinen stetigen Schiffsreisen und versuchte eine Familie zu gründen. Doch aus medizinischen Folgen beider Partner war eine Geburt nicht möglich. So blieben die beiden in Depressionen zurück. Dennoch lebten die beiden weiter für die Arbeit von Kurt, um Menschen helfen zu können. Leider konnte er Luisa nicht helfen, welche mit 57 Jahren an KRebs verstarb.
 
-Von der Besatzung respektiert spielte er auch seine Autorität in der jetzigen Überfahrt nach Tokyo aus als er, den Erkentnissen des Detektivs [Jules-Louis Poirot](../../../helden/Jules-Louis%20Poirot/index.md) folgend, das Schiff unter "Quarantäne" nahm. So arbeitet er mti den Helden zusammen um den Mörder des Botschafters [Mori Arinori](../../../personen/Tokyo/Mori%20Arinori/index.md) zu finden.
+Seitdem stürzte sich Kurt mehr und mehr in seine Arbeit auf der [Ostfriesland](../../../orte/Ostfriesland/index.md) und wird von der Besatzung als eine Art Held angesehen. Dort unterstütze er die Helden bei der Suche nach einer Krankheit, was in Wirklichkeit die Suche nach dem [Gestaltwandler](../../../monster/Gestaltwandler/index.md) war. Nachdem die Helden gegen diesen kämpften blieb [Friedrich Pfeiffer](../../../helden/Friedrich_Pfeiffer/index.md) schwer verwundet über und wird von Kurt verarztet. Ohne ihn würde Friedrich sterben.
 
 ---
 
 ## Inventar und Begleiter
 
-
+- Medizinsche Ausrüstung eines Hausarztes
+- Notfallset
 
 ---
 
 ## Fähigkeiten
 
-- Schifffahrt
-- Fischerei
-- Bootsbau
-- Charisma
+- Medizin
+- Erste Hilfe
+- Nähen
