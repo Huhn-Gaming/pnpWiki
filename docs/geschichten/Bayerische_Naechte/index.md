@@ -53,7 +53,7 @@ Nach einen Herzschlägen zerberstet die hölzerne Tür! Doch der Werwolf kommt k
 
 ## Epilog
 
-Die Helden und Erik werden von der Bergwacht und Polizei am 13.12. in der Berghütte aufgefunden und im Polizeipräsidium Bad Tölz befragt. Der brutal getötete Graf und die allgemeine Situation werfen viele Fragen auf, welche aber zu großen Teilen vom vizeGendarmeriechef Friedrich beantwortet oder abgelenkt werden. Es wird davon ausgegangen, dass der Graf unter dem Einfluss von starken und seltsamen Drogen stand. Diese haben ihm extreme Kräfte und Schmerzresistenz verliehen, ihn jedoch gleichzeitig überaus aggressiv gemacht. Daher blieb den Helden nur die Selbstverteidigung übrig und sie werden freigelassen.
+Die Helden und Erik werden von der Bergwacht und Polizei am 13.12. in der Berghütte aufgefunden und im Polizeipräsidium Bad Tölz vom Hauptkommisar [Josef Fuchsberger](../../personen/Bad%20Tölz/Josef_Fuchsberger/index.md) befragt. Der brutal getötete Graf und die allgemeine Situation werfen viele Fragen auf, welche aber zu großen Teilen vom vize-Gendarmeriechef Friedrich beantwortet oder abgelenkt werden. Es wird davon ausgegangen, dass der Graf unter dem Einfluss von starken und seltsamen Drogen stand. Diese haben ihm extreme Kräfte und Schmerzresistenz verliehen, ihn jedoch gleichzeitig überaus aggressiv gemacht. Daher blieb den Helden nur die Selbstverteidigung übrig und sie werden freigelassen.
 
 Dennoch bleibt ein Verdacht zurück, der die Helden als Mörder sieht. Dieser Verdacht wird sie wahrscheinlich noch einige Zeit verfolgen.
 

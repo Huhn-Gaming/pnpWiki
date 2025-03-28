@@ -1,6 +1,7 @@
 # Michael Reichelt
 
-![Marina in ihrer Villa]( "Marina in ihrer Villa")
+![Michael vor seinem Dorf](../Michael%20Reichelt/Michael_Reichelt.png
+ "Michael vor seinem Dorf")
 
 | Name | Michael Reichelt|
 | ---| ---|
