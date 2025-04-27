@@ -25,6 +25,18 @@
 | | [Kō kaijō no satsujin](../../geschichten/Kō%20kaijō%20no%20satsujin/index.md) |
 | | [Unter Uns](../../geschichten/Unter%20uns/index.md) |
 
+
+---
+
+## Aussehen
+
+- Blonde, lange, wellige Haare
+- Starke Beine und mittlere Statur
+- Hübsches Gesicht ihrem Alter angemessen
+- Narbe am Unterbauch durch Kaiserschnitt
+- Teure und immer unterschiedliche Kleidung
+- Kann selbst nähen
+
 ---
 
 ## Biographie

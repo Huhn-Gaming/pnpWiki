@@ -22,6 +22,17 @@
 | | [Die Geistersprenger](../geschichten/Geistersprenger/index.md)|
 |  | [Zwischen zwei Welten](../../geschichten/Zwischen%20zwei%20Welten/index.md) |
 
+
+---
+
+## Aussehen
+
+- sehr groß und athletisch
+- Langes braunes Haar
+- Braune Finger vom Schnupfen
+- Eher traditionelle Kleidung oder Ledermäntel
+
+
 ---
 
 ## Biographie

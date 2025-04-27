@@ -27,6 +27,17 @@
 
 ---
 
+## Aussehen
+
+- Rot-Blonde Haare
+- Schmale Statur
+- Jugendliches Gesicht
+- Augenringe, da kaum Schlaf
+- Hosenträger und einfache Kleidung
+- Kauft selbst kaum Kleidung
+
+---
+
 ## Biographie
 
 Seit 1878 arbeitet er als der der Ingenieure unter [Graf Michael Großberg von Tölz](../../personen/Bad%20Tölz/Graf_Michael_Grossberg_von_Toelz/index.md) an dessen Seilbahn in [Lenggries](../../orte/Bayern/Lenggries/index.md). Dort zeichnete er sich durch seine fortschrittliche Arbeit und Anstrengung aus und wurde daher zur Einweihung eingeladen wurde. Alexander nach Lenggries und verbachte einen schönen Tag, bis das Unheil dort seinen Lauf nahm. Dort wurde er zusammen mit  [Friedrich Pfeiffer](../../helden/Friedrich_Pfeiffer/index.md) und [Marina Adamantidi](../Marina_Adamantidi/index.md) von dem Werwolf [Graf Michael Großberg von Tölz](../../personen/Bad%20Tölz/Graf_Michael_Grossberg_von_Toelz/index.md) gejagt, doch er wurde durch die gemeinsame Anstrengung besiegt.

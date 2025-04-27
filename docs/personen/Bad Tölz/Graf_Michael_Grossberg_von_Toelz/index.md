@@ -19,9 +19,20 @@
 
 ---
 
+## Aussehen
+
+- Mittellanges blondes Haar
+- Glatte Haut und Gesicht
+- Immer lächelnd
+- Stark und athletisch
+- Lange Kleidung die sehr bedeckt und Hüte
+- eher altmodisch angezogen
+
+---
+
 ## Biographie
 
-GRaf Michael Großberg von Tölz wurde am 30.03.1819 in Bad Tölz als zweiter Sohn der adeligen Familie der Großbergs geboren. Nach eines längeren Aufenthalts in England in seiner Kindheit verstarb sein älterer Bruder und kurz darauf seine Eltern auf mysteriöse Art und Weise. Dadurch wurde Michael als jüngster Graf in der Geschichte der Familie ernannt. Er nahm den jungen [Erik Sieber](../../Bedienstete/Erik_Siebert/index.md) auf, welcher später sein Bediensteter und engster Vertrauter werden soll.
+Graf Michael Großberg von Tölz wurde am 30.03.1819 in Bad Tölz als zweiter Sohn der adeligen Familie der Großbergs geboren. Nach eines längeren Aufenthalts in England in seiner Kindheit verstarb sein älterer Bruder und kurz darauf seine Eltern auf mysteriöse Art und Weise. Dadurch wurde Michael als jüngster Graf in der Geschichte der Familie ernannt. Er nahm den jungen [Erik Siebert](../../Bedienstete/Erik_Siebert/index.md) auf, welcher später sein Bediensteter und engster Vertrauter werden soll.
 
 Er selbst widmete sich neuen Technologien und dieser Entwicklung. Unterstützte dabei Erfinder und Tüftler mit Geld und Einfluss. 1880 sammelte er Geld für die erste motorisierte Seilbahn des Staates Bayern.
 

@@ -16,6 +16,14 @@
 | Titel |  |
 | Erster Auftritt | [Bayerische Nächte](../../../geschichten/Bayerische_Naechte/index.md) |
 
+## Aussehen
+
+- Langsam grauendes kurzes schwarzes Haar
+- GLanges faltendes Gesicht
+- Stechende Augen
+- Gerade und stramm
+- Butlerkleidung und sehr getragen
+
 ---
 
 ## Biographie

@@ -25,6 +25,16 @@
 
 ---
 
+## Aussehen
+
+- Leicht untersetzt und Muskeln unter leichtem Fett
+- Stabiler Schnauzer und rote Backen
+- Langsam dünne Haare
+- Meist in Uniform oder Ehefrau kleidet in an
+- Unbeholfen in Sachen Aussehen
+
+---
+
 ## Biographie
 
 
