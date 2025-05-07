@@ -5,10 +5,10 @@
 
 | Name | Hans Landgraf |
 | ---| ---|
-| Geburtstag| 15.06.1903 |
-| Geburtsort | Köln ||
+| Geburtstag| 15.06.1906 |
+| Geburtsort | Köln |
 | Statur | schmall und haarig |
-| Familie | [Marlene Landgraf] (Schwester) |
+| Familie | [Marlene Landgraf](../Marlene%20Landgraf/index.md) (Schwester) |
 | | [Janette Landgraf](../Janette%20Landgraf/index.md) (Großmutter) |
 | | [Maximilian Lanzinger](../../../helden/Maximilian%20Lanzinger/index.md) (Großvater) |
 | Wohnort | Bonn |
