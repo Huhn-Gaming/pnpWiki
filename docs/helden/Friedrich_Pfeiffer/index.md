@@ -2,11 +2,11 @@
 
 
 
-| Name | Friedrich PFeiffer |
+| Name | Friedrich Pfeiffer |
 | ---| ---|
 | Spieler| Thomas |
-| Geburtstag| 13.08.1838 |
-| Geburtsort |  |
+| Geburtstag| 13.08.1842 |
+| Geburtsort | Bad Tölz |
 | Statur | leicht untersetzt |
 | Familie | Frau |
 |  | Tochter |

@@ -5,8 +5,8 @@
 | Name | Alexander Doppler|
 | ---| ---|
 | Spieler| Johannes |
-| Geburtstag| |
-| Geburtsort |  |
+| Geburtstag| 12.07.1855 |
+| Geburtsort | Aachen |
 | Statur | durchschnittlich |
 | Familie | |
 | Religion | evangelisch |

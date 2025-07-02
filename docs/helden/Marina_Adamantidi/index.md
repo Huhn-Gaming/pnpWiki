@@ -2,10 +2,10 @@
 
 ![Marina in ihrer Villa](../Marina_Adamantidi/Marina.jpeg "Marina in ihrer Villa")
 
-| Name | Marina Adamantidi|
+| Name | Marina Dalia Adamantidi|
 | ---| ---|
 | Spieler| Artemis |
-| Geburtstag| 01.05.1845 |
+| Geburtstag| 01.05.1847 |
 | Geburtsort | Nafplio |
 | Statur | elegant groß |
 | Familie | [Friedrich Ritter von Burger](../Friedrich%20Ritter%20von%20Burger/index.md) (Mann) |

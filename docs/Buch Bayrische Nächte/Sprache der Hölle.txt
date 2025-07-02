@@ -1,6 +1,7 @@
 Worte bilden sich aus Silben, welche beschreiben um was es im Prinzip geht und die Endung bestimmt ob Nomen, Verb oder Adjektiv.
 Satzbau wie im Deutschen. Insgesamt 49 Silben, 26 davon einzigartig, welche nicht für Wörter benutzt werden. 
 Keine Deklination von Nomen.
+Wörter wurden auf ein Stück Stoff gewoben und müssen daher mit Nadelstichen schreibbar sein.
 
 Endungen von Wörtern:
 Nomen:
