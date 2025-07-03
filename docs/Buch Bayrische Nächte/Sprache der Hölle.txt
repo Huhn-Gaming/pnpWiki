@@ -61,7 +61,8 @@ Osch   Kar   Erk   Fey    Krok    Ri    Tat   Ikk   Asch   Ikee   Schasch   Ksch
 Es bleiben 23 Silben für die Beschreibung des Worts:
 Mi  Vo  Lo  Ke  Ru  Th  Kv  Fr  Ht  To  Iv  Ley  Oor  Raa  Vir  Fuf  Kaf  Kfo  Ratt  Schi  Veek  Vria  Tsch  
 
-Das Zählsystem ist ein Eptasystem von 1-7. Eine 0 wird als kein Laut angegeben ''
+Das Zählsystem ist ein Eptasystem von 1-7. 
+0
 1
 2
 3
