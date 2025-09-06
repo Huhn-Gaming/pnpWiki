@@ -4,6 +4,10 @@ Quelle: https://supernatural.fandom.com/de/wiki/Formwandler
 
 Gestaldwanlder, oder Formwandler, Doppler und Mimen, sind Wesen, welche einen dämonischen Pakt geschlossen haben um die Kräfte der veränderbaren Gestalt zu erlangen.
 
+## Arten
+
+- [Werwolf](../Gestaltwandler/werwolf/index.md)
+
 ## Aussehen
 
 Gestaltwandler haben kein festgelegtes Aussehen, sondern passen sich entsprechende der Notwendigkeiten oder ihrer eigenen Wünsche an. Wenig ist bekannt über die wahre Natur von Gestaltwandlern, 

@@ -1,5 +1,10 @@
 # Monster
 
+## Bestien
+
+- [Skunumati](../monster/Bestien/Skunumati/index.md)
+
+
 ## Dämonen
 
 - [Gestaltwandler](../monster/Gestaltwandler/index.md)
@@ -8,13 +13,21 @@
 
 - [Totenseele](../monster/Geister/Totenseele/index.md)
 
+## Gestaltwandler
+
+- [Werwolf](../monster/gestaltwandler/werwolf/index.md)
+
 ## Humanoiden
 
-- [Gnom](../monster/gnom/index.md)
+- [Gnom](../monster/Humanoide/gnom/index.md)
+- [Vampir](../monster/Humanoide/Vampir/)
+
+## Teufel
+
 - [Teufel](../monster/Teufel/index.md)
-- [Vampir](../monster/Vampir/)
 
-## Tiergestalten
+## Tierartige
 
-- [Werwolf](../monster/werwolf/index.md)
-- [Nachtgiger](../monster/Nachtgiger/index.md)
+- [Nachtgiger](../monster/Tierartige/Nachtgiger/index.md)
+- [Remasuri (work in progress)](../Tierartige/Monster/Remasuri/index.md)
+- [Thermimp](../Tierartige/Monster/Thermimp/index.md)

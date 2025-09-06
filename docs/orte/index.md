@@ -30,4 +30,6 @@
 
 - [Paris](../orte/Frankreich/Paris/index.md)
 
+## [Gibraltar](../orte/Gibraltar/index.md)
+
 ## Die [Ostfriesland](../orte/Ostfriesland/index.md), ein Kreuzfahrtschiff auf der Reise zwischen Deutschland un Japan

@@ -2,7 +2,7 @@
 
 Der Nachtgiger ist der Name einer monsterartigen Kinderschreckfigur in Franken, vergleichbar dem Butzemann oder dem Nachtkrabb im österreichisch-süddeutschen Raum. In manchen fränkischen Gegenden dialektabhängig auch Nachtgeger, Nachdgiecher oder Noochdgieger genannt. Eine Variante im westmittelfränkischen Raum, etwa in den Orten Dürrwangen, Großlellenfeld oder Pleinfeld ist der Holzgeger oder Holzgieger. Er soll vor allem nachts umgehen und Kinder holen, die frech sind oder noch alleine unterwegs.
 
-In Häuser scheint der Nachtgiger dabei nicht eindringen zu können oder zu wollen, er begnügt sich mit dem, was er ab ca. 22 Uhr[2] auf der Straße finden kann. Diese Verhaltensweise sowie das nächtliche Erscheinen teilt er mit den [Vampiren](../Vampir/index.md). Oft werden Körperteile der Kinder gefressen, selten das gesamte Kind.
+In Häuser scheint der Nachtgiger dabei nicht eindringen zu können oder zu wollen, er begnügt sich mit dem, was er ab ca. 22 Uhr[2] auf der Straße finden kann. Diese Verhaltensweise sowie das nächtliche Erscheinen teilt er mit den [Vampiren](../../Humanoide/Vampir/index.md). Oft werden Körperteile der Kinder gefressen, selten das gesamte Kind.
 
 Der Nachtgiger lebt alleine in einem Bau und paart sich jährlich 1-2 mal. Dabei werden 3-10 neue Nachtgiger geboren.
 

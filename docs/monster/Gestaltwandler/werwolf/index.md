@@ -32,5 +32,5 @@ Einige der Gebissenen überleben die Verwandlung nicht, und der Zeitpunkt der Ve
 
 ## Bekannte Werwölfe
 
-- [Anna Siebert](../../helden/Anna%20Siebert/index.md)
-- [Graf Michael Großberg von Tölz](../../personen/Bad%20T%C3%B6lz/Graf_Michael_Grossberg_von_Toelz/index.md)
+- [Anna Siebert](../../../helden/Anna%20Siebert/index.md)
+- [Graf Michael Großberg von Tölz](../../../personen/Bad%20T%C3%B6lz/Graf_Michael_Grossberg_von_Toelz/index.md)

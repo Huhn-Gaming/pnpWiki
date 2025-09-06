@@ -18,4 +18,6 @@ Dies sind ihre Geschichten.
 
 ## [Orte](orte/index.md)
 
+## [Seelenbändigung](seelenbändigung/index.md)
+
 ## [Tiere](tiere/index.md)

@@ -10,7 +10,7 @@ Sie sind sehr an den Produkten und Schätzen der Erde interessiert und leben nor
 
 In Städten lassen sich ebenso Gnome finden, seitdem die großen Kanalisationen gebaut wurden. Dort befinden sich ebenso Gnomgemeinschaften die sehr viel gepflegter sind als man erwartet.
 
-Gnome stehlen von Menschen um ihren eigenen Reichtum zu vergrößern oder spielen ihnen böse und manchmal gefährliche Streiche. Daher werden sie selten zu Zielen für die Jäger der [Custodire Populum](../../gruppierungen/Custodire%20Populum/index.md), obwohl es noch seltener einen Grund gibt Gnome zu töten. Die Jäger vertreiben diese oder verhandeln mit ihnen.
+Gnome stehlen von Menschen um ihren eigenen Reichtum zu vergrößern oder spielen ihnen böse und manchmal gefährliche Streiche. Daher werden sie selten zu Zielen für die Jäger der [Custodire Populum](../../../gruppierungen/Custodire%20Populum/index.md), obwohl es noch seltener einen Grund gibt Gnome zu töten. Die Jäger vertreiben diese oder verhandeln mit ihnen.
 
 
 ## Aussehen

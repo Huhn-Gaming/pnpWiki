@@ -15,3 +15,5 @@
 ## [7. Kō kaijō no satsujin](../geschichten/Kō%20kaijō%20no%20satsujin/index.md)
 
 ## [8. Unter uns](../geschichten/Unter%20uns/index.md)
+
+## [9. Menagerie der Monster](../geschichten/Menagerie%20der%20Monster/index.md)
