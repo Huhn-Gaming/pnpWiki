@@ -1,9 +1,9 @@
-# Carlo Barundi
+# Carlo Alighieri
 
 ![Carlo bereit für die Nacht](../Carlo%20Barundi/Carlo%20Barundi.png "Carlo bereit für die Nacht")
 
 
-| Name | Carlo Barundi |
+| Name | Carlo Alighieri |
 | ---| ---|
 | Geburtstag| 01.04.1855 |
 | Geburtsort | Bozen |
