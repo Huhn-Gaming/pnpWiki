@@ -12,6 +12,7 @@
 ## Geister
 
 - [Totenseele](../monster/Geister/Totenseele/index.md)
+- [Kleiner Spuk](../monster/Geister/Kleiner%20Spuk/index.md)
 
 ## Gestaltwandler
 
