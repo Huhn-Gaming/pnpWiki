@@ -1,6 +1,6 @@
 # Bayerische Nächte
 
-![Der Werwolf in der Nacht](../Bayerische_Naechte/Werwolfnacht.jpg "Der Werwolf in der Nacht")
+![Der Werwolf in der Nacht](../01_Bayerische_Naechte/Werwolfnacht.jpg "Der Werwolf in der Nacht")
 
 | Datum:                     |  02.10.2022                      |
 |    ---                     |---                               | 

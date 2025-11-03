@@ -1,6 +1,6 @@
 # Die Geistersprenger
 
-![Die brennende Villa](../Geistersprenger/Die%20brennende%20Villa.jpg "Die brennende Villa")
+![Die brennende Villa](../04_Geistersprenger/Die%20brennende%20Villa.jpg "Die brennende Villa")
 
 | Datum:                     |  04.11.2023                      |
 |    ---                     |---                               | 

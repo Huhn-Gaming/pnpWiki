@@ -1,6 +1,6 @@
 # Kō kaijō no satsujin
 
-![Das goldene Luxusticket](../Kō%20kaijō%20no%20satsujin/Fahrtticket.png "Das goldene Luxusticket")
+![Das goldene Luxusticket](../07_Kō%20kaijō%20no%20satsujin/Fahrtticket.png "Das goldene Luxusticket")
 
 | Datum:                     |  30.12.2024                      |
 |    ---                     |---                               | 

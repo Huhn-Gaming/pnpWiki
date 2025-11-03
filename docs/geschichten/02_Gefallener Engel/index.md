@@ -1,6 +1,6 @@
 # Gefallener Engel
 
-![Der Markt im Schnee](../Gefallener%20Engel/Der_Markt_im_Schnee.jpg "Der Markt im Schnee")
+![Der Markt im Schnee](../02_Gefallener%20Engel/Der_Markt_im_Schnee.jpg "Der Markt im Schnee")
 
 | Datum:                     |  29.10.2022                      |
 |    ---                     |---                               | 

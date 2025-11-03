@@ -1,6 +1,6 @@
 ## Paradoxon
 
-![Die Frau in Rot](../Paradoxon/Wittelsbacherplatz2.jpg "Die Frau in Rot")
+![Die Frau in Rot](../06_Paradoxon/Wittelsbacherplatz2.jpg "Die Frau in Rot")
 
 | Datum:                     |  23.11.2024                      |
 |    ---                     |---                               | 

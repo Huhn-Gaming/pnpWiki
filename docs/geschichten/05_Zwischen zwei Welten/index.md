@@ -1,6 +1,6 @@
 ## Zwischen zwei Welten
 
-![Der Plan der Jünger](../Zwischen%20zwei%20Welten/Bombemplan.jpg "Der Plan der Jünger")
+![Der Plan der Jünger](../05_Zwischen%20zwei%20Welten/Bombemplan.jpg "Der Plan der Jünger")
 
 | Datum:                     |  30.12.2023                      |
 |    ---                     |---                               | 

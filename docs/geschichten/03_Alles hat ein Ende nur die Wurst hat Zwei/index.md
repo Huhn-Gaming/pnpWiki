@@ -1,6 +1,6 @@
 # Alles hat ein Ende, nur die Wurst hat Zwei
 
-![Die Brücke des Todes](../Alles%20hat%20ein%20Ende%20nur%20die%20Wurst%20hat%20Zwei/1881_F-Albert-Schwartz_-_Weidendammer_Bruecke_(Ausschnitt).jpg "Die Brücke des Todes")
+![Die Brücke des Todes](../03_Alles%20hat%20ein%20Ende%20nur%20die%20Wurst%20hat%20Zwei/1881_F-Albert-Schwartz_-_Weidendammer_Bruecke_(Ausschnitt).jpg "Die Brücke des Todes")
 
 | Datum:                     |  07.04.2023                      |
 |    ---                     |---                               | 
