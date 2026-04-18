@@ -9,7 +9,7 @@
 | **Veranstaltungsort:**        | **Casa Dauner** | 
 | **Spielzeit:**                | **Montag 08.05.1883**            |
 | **Schauplätze:**                | **[Ostfriesland](../../orte/Ostfriesland/index.md)**            |
-|               | **[Gibraltar](../../orte//Gibraltar/index.md)**            |
+|               | **[Gibraltar](../../orte/Gibraltar/index.md)**            |
 
 
 

@@ -6,8 +6,8 @@
 | Name | Janette Landgraf |
 | ---| ---|
 | Geburtstag| 06.12.1851 |
-| Geburtsort | Sendling ||
-| Statur | rund und bärtig |
+| Geburtsort | Sendling |
+| Statur | zeirlich und hübsch |
 | Familie | Mutter |
 | | [Maximilian Lanzinger](../../../helden/Maximilian%20Lanzinger/index.md) (zukünftig) |
 | Wohnort | [München](../../München/index.md) |

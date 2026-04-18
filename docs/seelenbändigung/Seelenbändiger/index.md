@@ -17,3 +17,5 @@ Seelenbändiger sind Menschen, welche in der Lage sind über ein [Seelenmal](../
 - [Janette Landgraf](../../personen/München/Janette%20Landgraf/index.md)
 
 - [Haja Karim](../../personen/Gibraltar/Haja%20Karim/index.md)
+
+- [Abasi Ashraf](../../personen/Alexandria/Abasi%20Ashraf/index.md)

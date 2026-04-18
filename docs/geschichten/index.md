@@ -17,3 +17,5 @@
 ## [8. Unter uns](../geschichten/08_Unter%20uns/index.md)
 
 ## [9. Menagerie der Monster](../geschichten/09_Menagerie%20der%20Monster/index.md)
+
+## [10. Der Geist des Buches](../geschichten/10_Der%20Geist%20des%20Buches/index.md)
