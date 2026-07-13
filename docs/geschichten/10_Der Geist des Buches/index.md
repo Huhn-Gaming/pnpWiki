@@ -1,6 +1,6 @@
 ## Der Geist des Buches
 
-![Die Hexe Haja zeigt ihr Seelenmal](../09_Menagerie%20der%20Monster/Haja%20Karim.jpg "Die Hexe Haja zeigt ihr Seelenmal")
+![Die antike Bibliothek](../10_Der%20Geist%20des%20Buches/Ancient_library.png "Die antike Bibliothek")
 
 | Datum:                     |  29.03.2026                      |
 |    ---                     |---                               | 
@@ -16,6 +16,7 @@
 ## Prolog
 
 Die Helden begeben sich bei dem nächsten Stop der Reise in [Alexandria](../../orte/Ägypten/Alexandria/index.md) auf die Suche nach altem Wissen, welches vielleicht in den alten Schriften der zerstörten antiken Bibliothek. Doch woher kann man solche Literatur erhalten? Jemanden muss den Helden dabei helfen, doch wem kann man trauen, nach all den Ereignissen der letzten Tage? Man hat kaum eine Wahl, den die Erforschung des [Seelenbändigens](../../seelenbändigung/index.md) und der Herkunft der [Teufelsmünze](../../Gegenstände/Okkultes/Teufelsmümze/index.md) ist von riesiger Bedeutung. Vielleicht lernen die Helden auch die Nutzugn von [Seelenfähigkeiten](../../seelenbändigung/Seelenfähigkeiten/index.md)...
+
 ---
 
 ## Hauptteil
