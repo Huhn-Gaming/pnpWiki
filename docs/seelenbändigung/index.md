@@ -8,11 +8,16 @@ Die eigene Seele kann benutzt werden um mit anderen Seelen zu kommunizieren, ode
 
 Fremde Seelen, welche keinem Körper innewohnen, können zu der eigenen aufgenommen werden. Abhängig vom Grad der Abnahme des Verstands und Selbstbewusstesein der fremden Seele, ist das Bändigen einfacher, die Kraft der Seele aber geschwächt. Um Seelem aufzunehmen ist wohl ein Seelenmal notwendig. Auch gibt esGerüchte, das Seelen aus anderen Körpern gezogen werden können und zwanghaft gebändigt werden können. Auch können manche Verletzungen mit der Aufzehrung einer Seele wiederhergestellt werden.
 
+
+
+
 ## Fähigkeiten von Seelenbändigern
 
-Eine Seele hat ein Gewicht von 21g und eine ungefähres Volumen von 0.001m3, was ein 1mm dickes Papier auf einer Fläche von 1m2 bedeuted. Die Geschwindigkeit einer Seele ist kaum beschränkt, so kann entsprechend Große Kraft durch diese angewand werden. Nur die Kontrolle des Seelenbändigers und der Bund zu der Seele sit entscheident. 
+[Seelenfähigkeiten](../seelenbändigung/Seelenfähigkeiten/index.md)
 
-In der Regel gilt: je mehr SEelen, desto mehr Kraft.
+Eine Seele hat ein Gewicht von 21g und eine ungefähres Volumen von 0.001m3, was ein 1mm dickes Papier auf einer Fläche von 1m2 bedeuted. Die Geschwindigkeit einer Seele ist kaum beschränkt, so kann entsprechend Große Kraft durch diese angewand werden. Nur die Kontrolle des Seelenbändigers und der Bund zu der Seele ist entscheident. 
+
+In der Regel gilt: je mehr Seelen, desto mehr Kraft.
 
 - Seelenkommunikation
 
@@ -29,3 +34,9 @@ In der Regel gilt: je mehr SEelen, desto mehr Kraft.
 - Wissenstransfer
 
 - offensive Fertigkeiten
+
+## Bekannte Seelenbändiger
+
+[Seelenbändiger](../seelenbändigung/Seelenbändiger/index.md)
+
+
